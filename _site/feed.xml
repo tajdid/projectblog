@@ -3,10 +3,10 @@
   <channel>
     <title>Tajdid Rahman</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Sep 2014 20:57:42 +0100</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2014 20:57:42 +0100</lastBuildDate>
+    <link>http://tajdid.me.uk/projectblog/projectblog/</link>
+    <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 24 Sep 2014 21:30:27 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2014 21:30:27 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -26,13 +26,28 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Wed, 24 Sep 2014 21:34:08 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/09/24/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/09/24/welcome-to-jekyll/</guid>
+        <link>http://tajdid.me.uk/projectblog/projectblog/jekyll/update/2014/09/24/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/jekyll/update/2014/09/24/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>About Kreative</title>
+        <description>&lt;p&gt;Kreative is a group of four interactive media students. The group consists of Alec Devlin, Declan Magee, Lauren McKimm and me, Tajdid Rahman. Kreative concentrates on both screen and print graphics.&lt;/p&gt;
+
+&lt;p&gt;The team leader position will be rotating between each team member every four weeks. The current team leader is Alec Devlin&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Sep 2014 21:34:08 +0100</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/08/about-kreative/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/08/about-kreative/</guid>
+        
+        
+        <category>kreative</category>
         
       </item>
     
