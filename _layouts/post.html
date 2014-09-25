@@ -5,7 +5,7 @@ layout: default
 <article class="post">
 	<header>
 		<h1>{{ page.title }}</h1>
-		<span class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
+		<span class="meta">{{ page.date | date: "%d %B %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
 	</header>
 
 	<section>
@@ -13,12 +13,12 @@ layout: default
 	</section>
 
 	<footer>
-		<p>
+		<p class="clearfix">
 			{% if page.previous.url %} 
-				<a href="{{site.baseurl}}{{page.previous.url}}"><strong>&laquo; {{page.previous.title}}</strong></a> 
+				<a href="{{site.baseurl}}{{page.previous.url}}" class="left"><strong>&laquo; {{page.previous.title}}</strong></a> 
 			{% endif %} 
 			{% if page.next.url %} 
-				<a href="{{site.baseurl}}{{page.next.url}}"><strong>{{page.next.title}} &raquo;</strong></a> 
+				<a href="{{site.baseurl}}{{page.next.url}}"  class="right"><strong>{{page.next.title}} &raquo;</strong></a> 
 			{% endif %} 
 		</p>
 	</footer>
