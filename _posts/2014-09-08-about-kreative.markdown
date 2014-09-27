@@ -1,10 +1,15 @@
 ---
 layout: post
 title:  "About Kreative"
-date:   2014-09-08 20:34:08
+date:   2014-09-09
 categories: kreative
 ---
 
-Kreative is a group of four interactive media students. The group consists of Alec Devlin, Declan Magee, Lauren McKimm and me, Tajdid Rahman. Kreative concentrates on both screen and print graphics.
+Kreative is a small interactive design agency based in Titanic Quarter, Belfast. We are a collective of students aiming to come up with, create and realise simple, digital solutions which communicate the values and relevant messages of our clients in a wide variety of industries.
 
-The team leader position will be rotating between each team member every four weeks. The current team leader is Alec Devlin
+The group consists of;
+
+- Alec Devlin
+- Declan Magee
+- Lauren McKimm
+- Tajdid Rahman

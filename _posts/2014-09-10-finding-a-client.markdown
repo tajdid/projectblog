@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Finding a Client"
-date:   2014-09-10
+date:   2014-09-11
 categories: kreative
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim recusandae aliquam rerum sequi esse unde ratione praesentium, numquam, delectus est id distinctio aut labore eligendi quisquam inventore hic laboriosam reiciendis.
+Today as group we discussed about finding a client that would be willing to allow us to create a website for them. Alec mentioned that he may have a potential client that he could bring in for us. He knew the client through his father, who will be the acting representative for the client who is currently overseas in England at the moment.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsa id dolorum hic omnis, incidunt exercitationem itaque aspernatur assumenda neque ipsam architecto nobis dolorem officiis voluptate rem, magni nostrum optio?
+Whilst we waited for the client to get back to us, Alec assigned us each a different task for the terms of reference. I will be working on our company description and design requirements for the client.
