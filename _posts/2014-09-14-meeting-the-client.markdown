@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meeting the Client"
-date:   2014-09-14
+date:   2014-09-16
 categories: kreative
 ---
 
