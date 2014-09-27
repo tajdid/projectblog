@@ -10,4 +10,4 @@ Colours play an important role in all design mediums. Although the visual functi
 (Talk about Mark Boultan's 'Designing for the Web' book here)
 
 ### References
-Irby, L. (2014). Choosing Colors For Your Website Design. 2createawebsite.com. Retrieved 27 September 2014, from [http://www.2createawebsite.com/design/color-psychology.html](http://www.2createawebsite.com/design/color-psychology.html)
+Irby, L. (2014). Choosing Colors For Your Website Design. 2createawebsite.com. Retrieved 25 September 2014, from [http://www.2createawebsite.com/design/color-psychology.html](http://www.2createawebsite.com/design/color-psychology.html)
