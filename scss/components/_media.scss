@@ -1,0 +1,12 @@
+@media (max-width: $mobile) {
+	.container {
+		padding: 0 20px;
+	}
+	.content {
+		@include span-columns(12);
+	}
+
+	.sidebar {	
+		@include span-columns(12);
+	}
+}

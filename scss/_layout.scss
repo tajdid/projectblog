@@ -1,0 +1,289 @@
+html {
+	min-height: 100%
+}
+
+body {
+	color: $body-colour;
+	font-family: $sans-serif;
+}
+
+img {
+	width: 100%;
+	border: 0;
+}
+
+a {
+	color: $red;
+	text-decoration: none;
+	@include transition(color, .3s);
+
+	&:hover {
+		color: $black;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: $black;
+}
+
+blockquote {
+	color: lighten($content-colour, 30%);
+	font-size: 0.95em;
+	font-style: italic;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	/* line-height: 1; */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.main-header {
+	@include span-columns(12);
+	background: $header-back url('../img/head_bg.jpg') no-repeat;
+	background-size: cover;
+	min-height: auto;
+	position: relative;
+	float: none;
+
+	.head-container {
+		position: relative;
+		width: 84%;
+		margin: 0 auto;
+		padding: 1em 0;
+	}
+
+	.logo {
+		margin-top: 0;
+		width: 80%;
+		a {
+			color: $body-colour;
+			text-decoration: none;
+			font: normal 900 1em $sans-serif;
+			text-transform: uppercase;
+
+			span {
+				color: $red;
+			}
+		}
+	}
+
+	.main-nav {
+		margin-top: 1em;
+		ul {
+			padding: 0;
+			li {
+				margin: 0 0 1em;
+				padding: 0 0 1em;
+				border-bottom: 1px solid rgba($nav-link, 0.1);
+				a {
+					color: rgba($nav-link, 0.5);
+					font-size: 1.2em;
+					text-decoration: none;
+					// border-left: 4px solid rgba($nav-link, 0.5);
+					// padding-left: 1em;	
+					// padding-top: 0.5em;
+					// padding-bottom: 0.5em;
+					@include transition(color, .3s);
+				}
+
+				span {
+					color: rgba($nav-link, 0.5);
+					font-size: 1.2em;
+					margin-right: 0.8em;
+					@include transition(color, .3s);
+				}
+
+				&:hover {
+					a {
+						color: $nav-link;
+					}
+
+					span {
+						color: $red;
+					}
+				}
+			}
+		}
+	}
+}
+
+
+@media screen and (min-width: $tablet) {
+	.main-header {
+		@include span-columns(4);
+		background: $header-back url('../img/head_bg.jpg') no-repeat;
+		background-size: cover;
+		min-height: 100%;
+		position: fixed;
+		float: left;
+
+		.head-container {
+			position: relative;
+			width: 84%;
+			margin: 0 auto;
+			padding: 1em 0;
+		}
+
+		.logo {
+			font: normal 900 1.8em $sans-serif;
+			text-transform: uppercase;
+			margin: 0.8em 0 1.2em;
+
+			span {
+				color: $red;
+				letter-spacing: -1px;
+			}
+		}
+
+		.main-nav {
+			margin-top: 1em;
+			ul {
+				padding: 0;
+				li {
+					margin: 0 0 1em;
+					padding: 0 0 1em;
+					border-bottom: 1px solid rgba($nav-link, 0.1);
+					a {
+						color: rgba($nav-link, 0.5);
+						font-size: 1.2em;
+						text-decoration: none;
+						// border-left: 4px solid rgba($nav-link, 0.5);
+						// padding-left: 1em;	
+						// padding-top: 0.5em;
+						// padding-bottom: 0.5em;
+						@include transition(all, .3s);
+					}
+
+					span {
+						color: rgba($nav-link, 0.5);
+						font-size: 1.2em;
+						margin-right: 0.8em;
+						@include transition(all, .3s);
+					}
+
+					&:hover {
+						a {
+							color: $nav-link;
+						}
+
+						span {
+							color: $red;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+.main-content {
+	@include span-columns(12);
+	padding: 1em 8%;
+	color: $content-colour;
+}
+
+.post {
+	margin-bottom: 60px;
+	p {
+		font: 1em/1.6em $helvetica;
+	}
+
+	.meta {
+		color: rgba($black, 0.5);
+	}
+
+	footer {
+		border-top: 1px solid rgba($black, 0.1);
+		margin-top: 1.2em;
+		padding-top: 0.3em;
+	}
+}
+
+.posts {
+	margin: 1.8em 0 0;
+	padding: 0;
+	list-style: none;
+
+	li {
+		margin-bottom: 1.5em;
+		padding-bottom: 1.5em;
+		border-bottom: 1px solid rgba($black, 0.1);
+
+
+		.post-date {
+			display: block;
+			margin-top: 5px;
+			color: rgba($black, 0.5);
+		}
+
+		.post-link {
+			font-size: 1.6em;
+			font-weight: 700;
+		}
+
+		.excerpt {
+			margin-top: 1em;
+			line-height: 1.6em;
+		}
+	}
+}
+
+@media screen and (min-width: $tablet) {
+	.main-content {
+		@include span-columns(8);
+		padding: 1em 4%;
+		margin: 0;
+		float: right;
+		color: $content-colour;
+	}
+
+	.post {
+		margin-bottom: 60px;
+		p {
+			font: 1em/1.6em $helvetica;
+		}
+	}
+
+	.posts {
+		margin: 1.8em 0 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+			margin-bottom: 1.5em;
+			padding-bottom: 1.5em;
+			border-bottom: 1px solid rgba($black, 0.1);
+
+			.post-date {
+				display: block;
+				margin-top: 5px;
+				color: rgba($black, 0.5);
+			}
+
+			.post-link {
+				font-size: 2em;
+				font-weight: 700;
+			}
+
+			.excerpt {
+				margin-top: 1em;
+				line-height: 1.6em;
+			}
+		}
+	}
+}

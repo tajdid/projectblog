@@ -3,6 +3,7 @@ layout: post
 title:  "Colours in Web Design"
 date:   2014-09-25
 categories: kreative
+week: Week 3
 ---
 
 Colours play an important role in all design mediums. Although the visual functionality of a website is influenced primarily by the text on the screen and page layout, colour takes it a step further by making a psychological impact (Irby, 2014).

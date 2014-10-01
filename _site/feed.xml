@@ -2,12 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tajdid Rahman</title>
-    <description>Hi there! My name&#39;s Tajdid Rahman, but you can call me Taj. This blog was created for my Project Management module that I&#39;m currently doing for my Foundation Degree Interactive Media at the Belfast Met, Titanic Quarter.</description>
+    <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 27 Sep 2014 20:59:31 +0100</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2014 20:59:31 +0100</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2014 17:04:31 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2014 17:04:31 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>Typography Hierarchy in Web Design</title>
+        <description>&lt;p&gt;Creating a strong typography hierarchy is vital in all mediums of graphic design. It’s a system used for organising type that allows a designer to establish an order of importance, thus allowing the user to easily view the information they’re looking for and navigate the content.&lt;/p&gt;
+
+&lt;div class=&quot;image&quot; style=&quot;width: 60%;&quot;&gt;
+	&lt;img src=&quot;http://designingfortheweb.co.uk/images/weight_diagram_b.gif&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The diagram below represents the relationship between Times New Roman’s uppercase and lowercase typefaces and its weights.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“if a designer has set type in roman and they need to add emphasis to a certain point in the copy, they would follow the lines to any on the second lines – bold lower case, small caps, full caps, and italic lower case or sloped small caps. If they were to jump to, say, bold italic lower case, or a more extreme example, bold sloped caps, the effect would be horrible. If the designer is setting type in bold lower case they could go on to add bold caps, or bold italic lower case without much bother. ” - Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;p&gt;Boulton, M. (2014). Chapter 13, Hierarchy. Designingfortheweb.co.uk. Retrieved 30 September 2014,&lt;br /&gt; from &lt;a href=&quot;http://designingfortheweb.co.uk/part3/part3_chapter13.php&quot;&gt;http://designingfortheweb.co.uk/part3/part3_chapter13.php&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Sep 2014 00:00:00 +0100</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/colours-in-web-design/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/colours-in-web-design/</guid>
+        
+        
+        <category>kreative</category>
+        
+      </item>
     
       <item>
         <title>Colours in Web Design</title>
