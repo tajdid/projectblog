@@ -1,0 +1,28 @@
+//BODY COLOURS
+$body-background: #F6F6F6;
+$body-colour: #FFF;
+$container-bg: #FFF;
+$head-colour: #505050;
+$header-back: #111;
+
+$content-colour: #444;
+
+$nav-link: #fff;
+
+//PRIMARY COLOURS
+$blue: #5ACDE0;
+$red: #fa5254;
+$green: #72D69A;
+$white: #fff;
+$black: #111;
+
+//LINK COLOURS
+$link-normal: $head-colour;
+$link-hover: $red;
+
+// BREAKPOINTS
+$mobile: 620px;
+$tablet: 768px;
+$desktop: 860px;
+$tablet-up: new-breakpoint(min-width $tablet 4);
+$desktop-up: new-breakpoint(min-width $desktop 8);

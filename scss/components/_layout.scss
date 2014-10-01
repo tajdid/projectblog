@@ -1,0 +1,67 @@
+nav {
+
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+			display: block;
+			margin: 0 0 0.4em;
+		}
+	}
+}
+
+header {
+	@extend %clearfix;
+	max-width: 1080px;
+	margin: 0 auto;
+	background: $header-back url('http://payload175.cargocollective.com/1/8/282864/5815632/9042399407_bf04388aca_o_o.jpg') no-repeat center;
+	background-size: cover;
+	padding: 5em 0;
+	opacity: 1;
+	.logo {
+		text-align: center;
+
+		a {
+			color: $white;
+		}
+	}
+	@include transition();
+
+	&:hover {
+		opacity: 0.9;
+	}
+}
+
+.content {
+	float: left;
+	//width: 75%;
+	@include span-columns(9);
+
+	h2 {
+		font: normal 700 36px/58px $helvetica;
+		margin: 58px 0 29px;
+	}
+
+	h3 {
+		font: normal 700 25px/29px $helvetica;
+		margin: 29px 0;
+	}
+
+	h4 {
+		font: normal 700 18px/29px $helvetica;
+		margin: 29px 0;
+	}
+}
+
+.sidebar {
+	float: right;
+	//width: 25%;
+	@include span-columns(3);
+
+	h4 {
+		font: normal 700 18px/29px $helvetica;
+		margin:58px 0 20px;
+	}
+}

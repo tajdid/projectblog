@@ -1,0 +1,4 @@
+*.xcuserstate
+*.codekit
+*.codekit-cache
+*.sass-cache

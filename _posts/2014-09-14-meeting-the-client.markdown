@@ -3,6 +3,7 @@ layout: post
 title:  "Meeting the Client"
 date:   2014-09-16
 categories: kreative
+week: Week 2
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim recusandae aliquam rerum sequi esse unde ratione praesentium, numquam, delectus est id distinctio aut labore eligendi quisquam inventore hic laboriosam reiciendis.

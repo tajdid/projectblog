@@ -8,6 +8,7 @@ url: "http://tajdid.me.uk/projectblog"
 permalink: /projectblog/:categories/:year/:month/:day/:title.html
 paginate_path: "/projectblog/page:num"
 
+email: tajdidrahman@gmail.com
 twitter_username: tajdidr
 github_username:  tajdid
 

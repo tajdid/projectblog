@@ -1,0 +1,37 @@
+body {
+	background: $body-background;
+	color: $body-colour;
+	font: normal 400 18px/29px $helvetica;
+}
+
+a {
+	color: $link-normal;
+	text-decoration: none;
+	@include transition();
+
+	&:hover {
+		color: $red;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: $head-colour;
+}
+
+.container {
+	@extend %clearfix;
+	max-width: 1080px;
+	margin: 0 auto;
+	padding: 0 40px;
+	overflow: hidden;
+}
+
+.bg {
+	background: $container-bg;
+}
+
+.logo {
+	line-height: 0;
+	letter-spacing: -1px;
+	color: $white;
+}
