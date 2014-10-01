@@ -8,7 +8,7 @@ week: Week 4
 
 Creating a strong typography hierarchy is vital in all mediums of graphic design. It's a system used for organising type that allows a designer to establish an order of importance, thus allowing the user to easily view the information they're looking for and navigate the content.
 
-<div class="image" style="width: 60%;">
+<div style="width: 60%; margin: 0 auto;">
 	<img src="http://designingfortheweb.co.uk/images/weight_diagram_b.gif" alt="">
 </div>
 __*Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)*__
