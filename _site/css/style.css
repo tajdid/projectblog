@@ -172,8 +172,6 @@ blockquote {
       text-decoration: none;
       font: normal 900 1em Roboto, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       text-transform: uppercase; }
-      .main-header .logo a span {
-        color: #fa5254; }
   .main-header .main-nav {
     margin-top: 1em; }
     .main-header .main-nav ul {
@@ -222,10 +220,8 @@ blockquote {
     .main-header .logo {
       font: normal 900 1.8em Roboto, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       text-transform: uppercase;
-      margin: 0.8em 0 1.2em; }
-      .main-header .logo span {
-        color: #fa5254;
-        letter-spacing: -1px; }
+      margin: 0.8em 0 1.2em;
+      max-width: 320px; }
     .main-header .main-nav {
       margin-top: 1em; }
       .main-header .main-nav ul {

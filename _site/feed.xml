@@ -5,20 +5,19 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Oct 2014 18:08:06 +0100</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2014 18:08:06 +0100</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2014 12:27:14 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2014 12:27:14 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
         <title>Typography Hierarchy in Web Design</title>
         <description>&lt;p&gt;Creating a strong typography hierarchy is vital in all mediums of graphic design. It’s a system used for organising type that allows a designer to establish an order of importance, thus allowing the user to easily view the information they’re looking for and navigate the content.&lt;/p&gt;
 
-&lt;div style=&quot;width: 60%; margin: 0 auto;&quot;&gt;
+&lt;p&gt;The diagram below represents the relationship between Times New Roman’s uppercase and lowercase typefaces and its weights.
+&amp;lt;div style=&quot;width: 60%; margin: 0 auto;&quot;&amp;gt;
 	&lt;img src=&quot;http://designingfortheweb.co.uk/images/weight_diagram_b.gif&quot; alt=&quot;&quot; /&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The diagram below represents the relationship between Times New Roman’s uppercase and lowercase typefaces and its weights.&lt;/p&gt;
+&amp;lt;/div&amp;gt;
+&lt;strong&gt;&lt;em&gt;Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“if a designer has set type in roman and they need to add emphasis to a certain point in the copy, they would follow the lines to any on the second lines – bold lower case, small caps, full caps, and italic lower case or sloped small caps. If they were to jump to, say, bold italic lower case, or a more extreme example, bold sloped caps, the effect would be horrible. If the designer is setting type in bold lower case they could go on to add bold caps, or bold italic lower case without much bother. ” - Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/p&gt;

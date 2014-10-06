@@ -75,10 +75,6 @@ blockquote {
 			text-decoration: none;
 			font: normal 900 1em $sans-serif;
 			text-transform: uppercase;
-
-			span {
-				color: $red;
-			}
 		}
 	}
 
@@ -143,11 +139,7 @@ blockquote {
 			font: normal 900 1.8em $sans-serif;
 			text-transform: uppercase;
 			margin: 0.8em 0 1.2em;
-
-			span {
-				color: $red;
-				letter-spacing: -1px;
-			}
+			max-width: 320px;
 		}
 
 		.main-nav {
