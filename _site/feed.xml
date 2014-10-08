@@ -5,23 +5,29 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Oct 2014 12:35:14 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2014 12:35:14 +0100</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2014 17:50:01 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2014 17:50:01 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
-        <title>Terms of Reference Feedback and More</title>
+        <title>ToR Feedback and More</title>
         <description>&lt;p&gt;Today we received feedback on our Terms of Reference that we created for our client. The feedback was mostly positive and we received a very high mark for our work.&lt;/p&gt;
+
+&lt;p&gt;This is what &lt;em&gt;Clair Stevenson&lt;/em&gt;, our tutor, wrote.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“A design and technical challenge has been accepted by the team and by the live client with serious money by way of Wordpress templates being used. Careful planning considerations have already taken place with wireframes. Have adequate communication links been established between the team and client?”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Also, today the team lead has changed to Lauren McKimm.&lt;/p&gt;
+&lt;p&gt;It is true that we are falling short on communication between each other, but we’ll hopefully change this by incorporating team managment tools such as &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;role-changes&quot;&gt;Role Changes&lt;/h4&gt;
+
+&lt;p&gt;Today the team lead role has been passed on to &lt;em&gt;Lauren McKimm&lt;/em&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Sep 2014 00:00:00 +0100</pubDate>
-        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/terms-of-reference-feedback/</link>
-        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/terms-of-reference-feedback/</guid>
+        <pubDate>Tue, 07 Oct 2014 00:00:00 +0100</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/07/terms-of-reference-feedback/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/07/terms-of-reference-feedback/</guid>
         
         
         <category>kreative</category>
@@ -32,22 +38,28 @@
         <title>Typography Hierarchy in Web Design</title>
         <description>&lt;p&gt;Creating a strong typography hierarchy is vital in all mediums of graphic design. It’s a system used for organising type that allows a designer to establish an order of importance, thus allowing the user to easily view the information they’re looking for and navigate the content.&lt;/p&gt;
 
+&lt;p&gt;One of the best ways of accomplishing typography hierarchy is by varying the type size to differentiate content. Although colour and layout is important, different type sizes, spread across a website, will speak louder to readers the importance of a pages elements. It also helps readers in a hurry to quickly pick out the important parts - which could also lead to the reader staying longer and reading on.&lt;/p&gt;
+
 &lt;p&gt;The diagram below represents the relationship between Times New Roman’s uppercase and lowercase typefaces and its weights.
-&amp;lt;div style=&quot;width: 60%; margin: 0 auto;&quot;&amp;gt;
-	&lt;img src=&quot;http://designingfortheweb.co.uk/images/weight_diagram_b.gif&quot; alt=&quot;&quot; /&gt;
-&amp;lt;/div&amp;gt;
-&lt;strong&gt;&lt;em&gt;Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+	&lt;img src=&quot;http://designingfortheweb.co.uk/images/weight_diagram_b.gif&quot; alt=&quot;&quot; style=&quot;width: 60%; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“if a designer has set type in roman and they need to add emphasis to a certain point in the copy, they would follow the lines to any on the second lines – bold lower case, small caps, full caps, and italic lower case or sloped small caps. If they were to jump to, say, bold italic lower case, or a more extreme example, bold sloped caps, the effect would be horrible. If the designer is setting type in bold lower case they could go on to add bold caps, or bold italic lower case without much bother. ” - Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;The above quote suggests that hierarchy can also be achieved by not only using different sizes of type to achieve it, but we can also use different styles; for example, all-caps, or using italic for sub-headings. Serif and sans-serif typefaces can also be mixed to good effect.&lt;/p&gt;
+
 &lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
 &lt;p&gt;Boulton, M. (2014). Chapter 13, Hierarchy. Designingfortheweb.co.uk. Retrieved 30 September 2014,&lt;br /&gt; from &lt;a href=&quot;http://designingfortheweb.co.uk/part3/part3_chapter13.php&quot;&gt;http://designingfortheweb.co.uk/part3/part3_chapter13.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/ --&gt;
 </description>
         <pubDate>Tue, 30 Sep 2014 00:00:00 +0100</pubDate>
-        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/colours-in-web-design/</link>
-        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/colours-in-web-design/</guid>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/typography-hierarchy-in-web-design/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/typography-hierarchy-in-web-design/</guid>
         
         
         <category>kreative</category>
