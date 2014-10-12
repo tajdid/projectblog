@@ -31,6 +31,9 @@
 .icon-envelope:before {
   content: "\e602"; }
 
+.icon-clock:before {
+  content: "\e607"; }
+
 .icon-user:before {
   content: "\e603"; }
 

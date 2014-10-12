@@ -5,9 +5,29 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Oct 2014 17:50:01 +0100</pubDate>
-    <lastBuildDate>Wed, 08 Oct 2014 17:50:01 +0100</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2014 13:07:35 +0100</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2014 13:07:35 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>Blog feedback</title>
+        <description>&lt;p&gt;I recieved feedback on my blog from Clair Stevenson in the form of an audio file. &lt;/p&gt;
+
+&lt;h4 id=&quot;feedback&quot;&gt;Feedback&lt;/h4&gt;
+&lt;audio controls=&quot;&quot;&gt;
+	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_01.m4a&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;If the above the audio player is not working then please &lt;a href=&quot;/projectblog/downloads/blog_audio_feedback_01.m4a&quot;&gt;download&lt;/a&gt; the audio file.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Oct 2014 00:00:00 +0100</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/12/blog-feedback/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/12/blog-feedback/</guid>
+        
+        
+        <category>kreative</category>
+        
+      </item>
     
       <item>
         <title>ToR Feedback and More</title>
@@ -20,6 +40,8 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;It is true that we are falling short on communication between each other, but we’ll hopefully change this by incorporating team managment tools such as &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can download the Terms of Reference by &lt;a href=&quot;/projectblog/downloads/Terms_of_Reference_Final.docx&quot;&gt;clicking here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;role-changes&quot;&gt;Role Changes&lt;/h4&gt;
 
