@@ -14,6 +14,8 @@ This is what _Clair Stevenson_, our tutor, wrote.
 
 It is true that we are falling short on communication between each other, but we'll hopefully change this by incorporating team managment tools such as [Trello](https://trello.com/).
 
+You can download the Terms of Reference by [clicking here](/projectblog/downloads/Terms_of_Reference_Final.docx)
+
 ####Role Changes
 
 Today the team lead role has been passed on to _Lauren McKimm_.
