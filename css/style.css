@@ -264,7 +264,7 @@ blockquote {
 .post {
   margin-bottom: 60px; }
   .post p {
-    font: 1em/1.6em "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+    font: 1em/1.65em "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
   .post .meta {
     color: rgba(17, 17, 17, 0.5); }
   .post footer {
@@ -307,7 +307,7 @@ blockquote {
   .post {
     margin-bottom: 60px; }
     .post p {
-      font: 1em/1.6em "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+      font: 1em/1.65em "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
   .posts {
     margin: 1.8em 0 0;
