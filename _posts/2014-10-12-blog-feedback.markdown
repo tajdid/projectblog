@@ -6,11 +6,13 @@ categories: kreative
 week: Week 6
 ---
 
-I recieved feedback on my blog from Clair Stevenson in the form of an audio file. 
+I recieved feedback on my blog from Clair Stevenson in the form of an audio file, which you can have a listen to below.
 
-####Feedback
+<!-- ####Feedback -->
 <audio controls>
 	<source src="/projectblog/downloads/blog_audio_feedback_01.m4a"></source>
 </audio>
 
-If the above the audio player is not working then please [download](/projectblog/downloads/blog_audio_feedback_01.m4a) the audio file.
+I agree with all that has been said about my blog. The work on this blog is not up to my usual standards and that is largely due to the lack of motivation and not treating my blog like an assignment.
+
+I've now updated my blog with the [minutes](/projectblog/minutes/) and a link to the [terms of reference](/projectblog/downloads/Terms_of_Reference_Final.docx) and I am currently writing up an update on colours and typography in web design.

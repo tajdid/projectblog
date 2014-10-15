@@ -5,20 +5,22 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Oct 2014 13:07:35 +0100</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2014 13:07:35 +0100</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2014 14:46:27 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2014 14:46:27 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
         <title>Blog feedback</title>
-        <description>&lt;p&gt;I recieved feedback on my blog from Clair Stevenson in the form of an audio file. &lt;/p&gt;
+        <description>&lt;p&gt;I recieved feedback on my blog from Clair Stevenson in the form of an audio file, which you can have a listen to below.&lt;/p&gt;
 
-&lt;h4 id=&quot;feedback&quot;&gt;Feedback&lt;/h4&gt;
+&lt;!-- ####Feedback --&gt;
 &lt;audio controls=&quot;&quot;&gt;
 	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_01.m4a&quot; /&gt;
 &lt;/audio&gt;
 
-&lt;p&gt;If the above the audio player is not working then please &lt;a href=&quot;/projectblog/downloads/blog_audio_feedback_01.m4a&quot;&gt;download&lt;/a&gt; the audio file.&lt;/p&gt;
+&lt;p&gt;I agree with all that has been said about my blog. The work on this blog is not up to my usual standards and that is largely due to the lack of motivation and not treating my blog like an assignment.&lt;/p&gt;
+
+&lt;p&gt;I’ve now updated my blog with the &lt;a href=&quot;/projectblog/minutes/&quot;&gt;minutes&lt;/a&gt; and a link to the &lt;a href=&quot;/projectblog/downloads/Terms_of_Reference_Final.docx&quot;&gt;terms of reference&lt;/a&gt; and I am currently writing up an update on colours and typography in web design.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Oct 2014 00:00:00 +0100</pubDate>
         <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/12/blog-feedback/</link>
@@ -57,31 +59,71 @@
       </item>
     
       <item>
-        <title>Typography Hierarchy in Web Design</title>
-        <description>&lt;p&gt;Creating a strong typography hierarchy is vital in all mediums of graphic design. It’s a system used for organising type that allows a designer to establish an order of importance, thus allowing the user to easily view the information they’re looking for and navigate the content.&lt;/p&gt;
+        <title>Typography in Web Design</title>
+        <description>&lt;p&gt;Typography has an important role to play in helping convey information. The amount of typefaces available are few and far between, and with the introduction of web font services such as Typekit and Google Web Fonts the available fonts to the web has become easier than ever to implement.&lt;/p&gt;
+
+&lt;p&gt;A popular combination is to use serif fonts as the body of text and sans-serif fonts for the headings or vice-
+versa. The body text should be easily readable with the heading fonts complementary and potentially playful. A general rule is to use no more than 2/3 typefaces on a website.&lt;/p&gt;
+
+&lt;h2 id=&quot;hierarchy&quot;&gt;Hierarchy&lt;/h2&gt;
+
+&lt;p&gt;Creating a strong typography hierarchy is vital in all mediums of graphic design. It’s a system used for organising type that allows a designer to establish an order of importance, thus allowing the user to easily view the information they’re looking for and navigate the content.&lt;/p&gt;
 
 &lt;p&gt;One of the best ways of accomplishing typography hierarchy is by varying the type size to differentiate content. Although colour and layout is important, different type sizes, spread across a website, will speak louder to readers the importance of a pages elements. It also helps readers in a hurry to quickly pick out the important parts - which could also lead to the reader staying longer and reading on.&lt;/p&gt;
 
-&lt;p&gt;The diagram below represents the relationship between Times New Roman’s uppercase and lowercase typefaces and its weights.
-&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;
 	&lt;img src=&quot;http://designingfortheweb.co.uk/images/weight_diagram_b.gif&quot; alt=&quot;&quot; style=&quot;width: 60%; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;Figure 1 represents the relationship between Times New Roman’s uppercase and lowercase typefaces and its weights. This is also known as a type family.&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;“if a designer has set type in roman and they need to add emphasis to a certain point in the copy, they would follow the lines to any on the second lines – bold lower case, small caps, full caps, and italic lower case or sloped small caps. If they were to jump to, say, bold italic lower case, or a more extreme example, bold sloped caps, the effect would be horrible. If the designer is setting type in bold lower case they could go on to add bold caps, or bold italic lower case without much bother. ” - Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/p&gt;
+  &lt;p&gt;“if a designer has set type in roman and they need to add emphasis to a certain point in the copy, they would follow the lines to any on the second lines – bold lower case, small caps, full caps, and italic lower case or sloped small caps. If they were to jump to, say, bold italic lower case, or a more extreme example, bold sloped caps, the effect would be horrible. If the designer is setting type in bold lower case they could go on to add bold caps, or bold italic lower case without much bother. ” - &lt;em&gt;Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The above quote suggests that hierarchy can also be achieved by not only using different sizes of type to achieve it, but we can also use different styles; for example, all-caps, or using italic for sub-headings. Serif and sans-serif typefaces can also be mixed to good effect.&lt;/p&gt;
+&lt;p&gt;The above quote suggests that hierarchy can also be achieved by not only using different sizes of type to achieve it, but we can also use different styles; for example, all-caps, or using italic for sub-headings. As I mentioned before, serif and sans-serif typefaces can also be mixed to good effect.&lt;/p&gt;
 
-&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;h2 id=&quot;swiss-style&quot;&gt;Swiss Style&lt;/h2&gt;
+
+&lt;p&gt;I’ve always been a big fan of the swiss style, so I had to discuss the topic in my blog. The famous swiss style is often referred to as the International Typegraphic Style or just simply International Style. The style was formed in Switzerland back in the mid 1900s and was the basis of modern graphic design in the mid 20th century and remains so today. &lt;/p&gt;
+
+&lt;p&gt;The term International Typographic Style came around due to the aim of the style, which is to be clean and improve readability in design, but the characteristics of the style also composes of sans-serif typefaces, asymmetrical layouts, grid systems and visual communication using photography with type.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://c3.staticflickr.com/3/2026/3530252783_cec577fd01_z.jpg&quot; alt=&quot;Photography by insect54&quot; title=&quot;Publicité et arts graphiques / advertising and graphic art&quot; /&gt;
+&lt;em&gt;Figure 2: Photography by &lt;a href=&quot;http://www.flickr.com/photos/insect54/3530252783/in/set-72157614426991414/&quot;&gt;insect54&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Perfection is achieved, not when there is nothing left to add, but when there is nothing left to remove.”
+- &lt;em&gt;Antoine de Saint-Exupéry&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.designishistory.com/1940/joseph-mueller-brockmann/&quot;&gt;Josef Müller-Brockmann&lt;/a&gt; was a leading pioneer of the Swiss style and was the founder and editor of the Zurich published journal Neue Grafik, who introduced the Swiss Style into America. He concerned himself with functional and objective design that by restricting design elements in the confine of a typographic grid, would shift the focus of image on the core message displayed by a clean and simple geometrical aesthetic. &lt;/p&gt;
+
+&lt;p&gt;Other assoicated artists of Swiss design include the likes of;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Armin_Hofmann&quot;&gt;Armin Hofmann&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Max_Bill&quot;&gt;Max Bill&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lohse.ch/bio_e.html&quot;&gt;Richard Paul Lohse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.designishistory.com/1940/emil-ruder/&quot;&gt;Emil Ruder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;swiss-style-in-web-design&quot;&gt;Swiss Style in Web Design&lt;/h3&gt;
+
+&lt;p&gt;As the Swiss Style is devoted to the minimal elements of design such as typography and content rather than textures and illustrations. The impact of these styles on the web is that they are naturally very user-friendly interfaces, as any message is conveyed clearly, with minimal artistic clutter around it.  &lt;/p&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
 &lt;p&gt;Boulton, M. (2014). Chapter 13, Hierarchy. Designingfortheweb.co.uk. Retrieved 30 September 2014,&lt;br /&gt; from &lt;a href=&quot;http://designingfortheweb.co.uk/part3/part3_chapter13.php&quot;&gt;http://designingfortheweb.co.uk/part3/part3_chapter13.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h4&gt;
+&lt;p&gt;Flask, D. (2014). Swiss Design : Design Is History. Designishistory.com. Retrieved 15 October 2014, from &lt;a href=&quot;http://www.designishistory.com/home/swiss/&quot;&gt;http://www.designishistory.com/home/swiss/&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/ --&gt;
 </description>
         <pubDate>Tue, 30 Sep 2014 00:00:00 +0100</pubDate>
-        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/typography-hierarchy-in-web-design/</link>
-        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/typography-hierarchy-in-web-design/</guid>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/typography-in-web-design/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/30/typography-in-web-design/</guid>
         
         
         <category>kreative</category>
@@ -92,10 +134,16 @@
         <title>Colours in Web Design</title>
         <description>&lt;p&gt;Colours play an important role in all design mediums. Although the visual functionality of a website is influenced primarily by the text on the screen and page layout, colour takes it a step further by making a psychological impact (Irby, 2014).&lt;/p&gt;
 
-&lt;p&gt;(Talk about Mark Boultan’s ‘Designing for the Web’ book here)&lt;/p&gt;
+&lt;p&gt;Choosing the right colours when designing a website is something that requires a lot of patience, experimentation and guesswork.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People make a subconscious judgment about a product in less than 90 seconds of viewing, and a majority of these people base that assessment on color alone. In fact, almost 85% of consumers cite color as the primary reason they buy a particular product, and 80% of people believe color increases brand recognition. (Gillett, 2014)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
 &lt;p&gt;Irby, L. (2014). Choosing Colors For Your Website Design. 2createawebsite.com. Retrieved 25 September 2014, from &lt;a href=&quot;http://www.2createawebsite.com/design/color-psychology.html&quot;&gt;http://www.2createawebsite.com/design/color-psychology.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gillett, R. (2014). What Your Logo’s Color Says About Your Company (Infographic). Fast Company. Retrieved 12 October 2014, from &lt;a href=&quot;http://www.fastcompany.com/3028378/leadership-now/what-your-logos-color-says-about-your-company-infographic&quot;&gt;http://www.fastcompany.com/3028378/leadership-now/what-your-logos-color-says-about-your-company-infographic&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Sep 2014 00:00:00 +0100</pubDate>
         <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/25/colours-in-web-design/</link>
