@@ -60,4 +60,5 @@ Boulton, M. (2014). Chapter 13, Hierarchy. Designingfortheweb.co.uk. Retrieved 3
 #### Bibliography 
 Flask, D. (2014). Swiss Design : Design Is History. Designishistory.com. Retrieved 15 October 2014, from [http://www.designishistory.com/home/swiss/](http://www.designishistory.com/home/swiss/)
 
+Terror, D. (2009). Lessons From Swiss Style Graphic Design - Smashing Magazine. Smashing Magazine. Retrieved 15 October 2014, from [http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/)
 <!-- http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/ -->
