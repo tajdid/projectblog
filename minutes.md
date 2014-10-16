@@ -23,4 +23,10 @@ permalink: /minutes/
 - Alec assigned us with different tasks for the Terms of Reference
 
 
-####Fourth team meeting [18/09/14 | 09:00 - 10:00]
+####Fourth team meeting [16/09/14 | 09:00 - 10:00]
+- Today we joined all our individual documents together to create our final Terms of Reference
+- We sent our final Terms of Reference to Clair and updated our blogs with a link to it.
+
+####Fifth team meeting [16/10/14 | 09:00 - 10:00]
+- Declan was not in today
+- We discussed on various research techniques and decided to do individual research.
