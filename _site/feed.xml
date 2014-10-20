@@ -5,9 +5,47 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Oct 2014 14:46:27 +0100</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2014 14:46:27 +0100</lastBuildDate>
-    <generator>Jekyll v2.1.1</generator>
+    <pubDate>Mon, 20 Oct 2014 11:34:34 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2014 11:34:34 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Layouts in Web Design</title>
+        <description>&lt;p&gt;A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.&lt;/p&gt;
+
+&lt;h2 id=&quot;composition&quot;&gt;Composition&lt;/h2&gt;
+
+&lt;h2 id=&quot;spatial-relationships&quot;&gt;Spatial Relationships&lt;/h2&gt;
+
+&lt;h2 id=&quot;grid-systems&quot;&gt;Grid Systems&lt;/h2&gt;
+
+&lt;h2 id=&quot;golden-ratio&quot;&gt;Golden Ratio&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“The Golden Ratio is a beautifully simple piece of mathematical theory that can help make your designs feel well proportioned and pleasing on the eye.”&lt;/em&gt; - Sam Hampton-Smith&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/g-ratio.png&quot; alt=&quot;Golden Ration&quot; title=&quot;Golden Ratio&quot; /&gt; &lt;br /&gt;
+Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Golden Ratio is a grid system that helps designers/developers plan their websites or designs to help improve user satisfaction or appear more aesthetically pleasing to the human eye. The ratio does not strictly have to be similar to figure X above, it can be adapted. Twitter (as shown in figure X below) have flipped it to fit for their design and information to make it look better and easy to use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/gr-twitter.png&quot; alt=&quot;Twitter Golden Ration&quot; title=&quot;Twitter Golden Ratio&quot; /&gt; &lt;br /&gt;
+Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&quot;&gt;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Oct 2014 00:00:00 +0100</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/16/layouts-in-web-design/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/16/layouts-in-web-design/</guid>
+        
+        
+        <category>kreative</category>
+        
+      </item>
     
       <item>
         <title>Blog feedback</title>
@@ -72,7 +110,7 @@ versa. The body text should be easily readable with the heading fonts complement
 &lt;p&gt;One of the best ways of accomplishing typography hierarchy is by varying the type size to differentiate content. Although colour and layout is important, different type sizes, spread across a website, will speak louder to readers the importance of a pages elements. It also helps readers in a hurry to quickly pick out the important parts - which could also lead to the reader staying longer and reading on.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-	&lt;img src=&quot;http://designingfortheweb.co.uk/images/weight_diagram_b.gif&quot; alt=&quot;&quot; style=&quot;width: 60%; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+	&lt;img src=&quot;http://designingfortheweb.co.uk/images/weight_diagram_b.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)&lt;/em&gt;&lt;/p&gt;
 
@@ -119,6 +157,8 @@ versa. The body text should be easily readable with the heading fonts complement
 &lt;h4 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h4&gt;
 &lt;p&gt;Flask, D. (2014). Swiss Design : Design Is History. Designishistory.com. Retrieved 15 October 2014, from &lt;a href=&quot;http://www.designishistory.com/home/swiss/&quot;&gt;http://www.designishistory.com/home/swiss/&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;Terror, D. (2009). Lessons From Swiss Style Graphic Design - Smashing Magazine. Smashing Magazine. Retrieved 15 October 2014, from &lt;a href=&quot;http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/&quot;&gt;http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/&lt;/a&gt;&lt;/p&gt;
+
 &lt;!-- http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/ --&gt;
 </description>
         <pubDate>Tue, 30 Sep 2014 00:00:00 +0100</pubDate>
@@ -134,16 +174,36 @@ versa. The body text should be easily readable with the heading fonts complement
         <title>Colours in Web Design</title>
         <description>&lt;p&gt;Colours play an important role in all design mediums. Although the visual functionality of a website is influenced primarily by the text on the screen and page layout, colour takes it a step further by making a psychological impact (Irby, 2014).&lt;/p&gt;
 
+&lt;p&gt;Mark Boulton reports that designing with colour in graphic design is the most difficult to get right (Boulton, 2014). I completely agree with this statement  as colour is very subjective. Some like a combination of green and blue, whereas some find it boring.&lt;/p&gt;
+
 &lt;p&gt;Choosing the right colours when designing a website is something that requires a lot of patience, experimentation and guesswork.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;People make a subconscious judgment about a product in less than 90 seconds of viewing, and a majority of these people base that assessment on color alone. In fact, almost 85% of consumers cite color as the primary reason they buy a particular product, and 80% of people believe color increases brand recognition. (Gillett, 2014)&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;Any professional web designer would be able to tell you that there are three properties to colour - hue, saturation and value;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hue&lt;/strong&gt; - what part of the spectrum the colour belongs to (such as red, yellow, pink, green, purple, orange or blue).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Saturation&lt;/strong&gt; - how rich a hue is; neon colours, for example, are very saturated, whilst pastel ones are less so.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Value&lt;/strong&gt; - how bright a color is; really, it is looking at how close it is to white or black.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The property that many people mistakenly use is the hue, as they tend to choose colors that clash together instead of flowing nice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/colourwheel.jpg&quot; alt=&quot;Colour Wheel&quot; title=&quot;Colour Wheel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 1: Colour wheel image found &lt;a href=&quot;http://barbiemutation.blogspot.co.uk/2013/04/color-wheel-madness.html&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Just take a look at the colour wheel (figure 1) here. It looks nice and the colours flow perfectly into one another — so it goes without saying that visually, blue, and the colours to the left and right of it, blend nicely together. They’re called analogous colours.&lt;/p&gt;
+
 &lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
 &lt;p&gt;Irby, L. (2014). Choosing Colors For Your Website Design. 2createawebsite.com. Retrieved 25 September 2014, from &lt;a href=&quot;http://www.2createawebsite.com/design/color-psychology.html&quot;&gt;http://www.2createawebsite.com/design/color-psychology.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Gillett, R. (2014). What Your Logo’s Color Says About Your Company (Infographic). Fast Company. Retrieved 12 October 2014, from &lt;a href=&quot;http://www.fastcompany.com/3028378/leadership-now/what-your-logos-color-says-about-your-company-infographic&quot;&gt;http://www.fastcompany.com/3028378/leadership-now/what-your-logos-color-says-about-your-company-infographic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Boulton, M. (2014). Chapter 15, Printing the Web. Designingfortheweb.co.uk. Retrieved 16 October 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part4/part4_intro.php&quot;&gt;http://designingfortheweb.co.uk/part4/part4_intro.php&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Sep 2014 00:00:00 +0100</pubDate>
         <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/25/colours-in-web-design/</link>
