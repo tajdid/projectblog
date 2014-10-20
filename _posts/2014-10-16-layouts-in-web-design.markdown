@@ -14,6 +14,19 @@ A layout is the basis of a website. It brings different aspects of design into p
 
 ##Grid Systems
 
+##Golden Ratio
+>_"The Golden Ratio is a beautifully simple piece of mathematical theory that can help make your designs feel well proportioned and pleasing on the eye."_ - Sam Hampton-Smith
+
+![Golden Ration](/projectblog/img/posts/g-ratio.png "Golden Ratio") <br>
+Figure. Image found [here](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)
+
+The Golden Ratio is a grid system that helps designers/developers plan their websites or designs to help improve user satisfaction or appear more aesthetically pleasing to the human eye. The ratio does not strictly have to be similar to figure X above, it can be adapted. Twitter (as shown in figure X below) have flipped it to fit for their design and information to make it look better and easy to use.
+
+![Twitter Golden Ration](/projectblog/img/posts/gr-twitter.png "Twitter Golden Ratio") <br>
+Figure. Image found [here](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)
+
 ####References
 
 [http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/](http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/)
+
+[http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)

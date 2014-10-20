@@ -5,9 +5,9 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 19 Oct 2014 18:15:52 +0100</pubDate>
-    <lastBuildDate>Sun, 19 Oct 2014 18:15:52 +0100</lastBuildDate>
-    <generator>Jekyll v2.1.1</generator>
+    <pubDate>Mon, 20 Oct 2014 11:34:34 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2014 11:34:34 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Layouts in Web Design</title>
@@ -19,9 +19,24 @@
 
 &lt;h2 id=&quot;grid-systems&quot;&gt;Grid Systems&lt;/h2&gt;
 
+&lt;h2 id=&quot;golden-ratio&quot;&gt;Golden Ratio&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“The Golden Ratio is a beautifully simple piece of mathematical theory that can help make your designs feel well proportioned and pleasing on the eye.”&lt;/em&gt; - Sam Hampton-Smith&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/g-ratio.png&quot; alt=&quot;Golden Ration&quot; title=&quot;Golden Ratio&quot; /&gt; &lt;br /&gt;
+Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Golden Ratio is a grid system that helps designers/developers plan their websites or designs to help improve user satisfaction or appear more aesthetically pleasing to the human eye. The ratio does not strictly have to be similar to figure X above, it can be adapted. Twitter (as shown in figure X below) have flipped it to fit for their design and information to make it look better and easy to use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/gr-twitter.png&quot; alt=&quot;Twitter Golden Ration&quot; title=&quot;Twitter Golden Ratio&quot; /&gt; &lt;br /&gt;
+Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&quot;&gt;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Oct 2014 00:00:00 +0100</pubDate>
         <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/16/layouts-in-web-design/</link>
