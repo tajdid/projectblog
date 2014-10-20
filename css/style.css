@@ -113,8 +113,10 @@ body {
   font-family: Roboto, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
 img {
-  width: 100%;
   border: 0; }
+  @media screen and (max-width: 768px) {
+    img {
+      width: 100%; } }
 
 a {
   color: #fa5254;

@@ -18,7 +18,7 @@ Creating a strong typography hierarchy is vital in all mediums of graphic design
 One of the best ways of accomplishing typography hierarchy is by varying the type size to differentiate content. Although colour and layout is important, different type sizes, spread across a website, will speak louder to readers the importance of a pages elements. It also helps readers in a hurry to quickly pick out the important parts - which could also lead to the reader staying longer and reading on.
 
 <br>
-	<img src="http://designingfortheweb.co.uk/images/weight_diagram_b.gif" alt="" style="width: 60%; margin: 0 auto;">
+	<img src="http://designingfortheweb.co.uk/images/weight_diagram_b.gif" alt="">
 
 _Figure 1: Chapter 13, Hierarchy, Solving the design problem (Boulton, 2014)_
 
