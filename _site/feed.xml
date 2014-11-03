@@ -5,13 +5,19 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Oct 2014 19:13:24 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2014 19:13:24 +0100</lastBuildDate>
+    <pubDate>Mon, 03 Nov 2014 12:59:36 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Nov 2014 12:59:36 +0000</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
         <title>Layouts in Web Design</title>
         <description>&lt;p&gt;A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.&lt;/p&gt;
+
+&lt;h2 id=&quot;composition&quot;&gt;Composition&lt;/h2&gt;
+
+&lt;p&gt;Composition is about how ideas and design elements are laid out into a whole, composing a design. It is arguably the most important part of a design process.&lt;/p&gt;
+
+&lt;p&gt;Good composition will boost the user experience when navigating through a website and will help create a better design overall. When creating composition, the designer should aim for alignment, consistency and strong unity. Composition also helps to add visual relevance to layouts so that it can help users to understand more about their journey on a website, where they should head next.&lt;/p&gt;
 
 &lt;h2 id=&quot;rule-of-thirds&quot;&gt;Rule of Thirds&lt;/h2&gt;
 
@@ -21,9 +27,15 @@
 
 &lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/ruleofthirds.jpg&quot; alt=&quot;Rule of Thirds&quot; title=&quot;Rule of Thirds&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;spatial-relationships&quot;&gt;Spatial Relationships&lt;/h2&gt;
-
 &lt;h2 id=&quot;grid-systems&quot;&gt;Grid Systems&lt;/h2&gt;
+
+&lt;p&gt;Whenever I’m working on website I use a grid system as they are crucial to good web design. Whether I’m using my own prebuilt, responsive, CSS-based grid system or designing around guides in Photoshop, grids provide structure and clarity to web design. &lt;/p&gt;
+
+&lt;p&gt;Grids have been used for centuries in print design. They have helped rein in the chaos of the web as well—time was, web pages were built with lots of nested tables and spacer gifs. This was not the best solution, but once CSS became more popular and supported, designers were quick to use grids in their designs.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“When you add complexity, you can decrease usability and there is a danger the grid would become so complex the designer can’t use it.”&lt;/em&gt; - Mark Boulton (Designing for the Web, Chapter 5, Part 23)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;golden-ratio&quot;&gt;Golden Ratio&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -40,9 +52,11 @@ Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designer
 
 &lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
 
-&lt;p&gt;Stayrook, J. (2014). Design to the nines and the rule of thirds. Webdesigner Depot. Retrieved 22 October 2014, from &lt;a href=&quot;http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/&quot;&gt;http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Boultan, M. (2014). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part5/part5_chapter23.php&quot;&gt;http://designingfortheweb.co.uk/part5/part5_chapter23.php&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;(Format using Citation Machine)&lt;/p&gt;
+&lt;p&gt;Hampton-Smith, S. (2014). The designer’s guide to grid theory. Creativebloq.com. Retrieved 22 October 2014, from &lt;a href=&quot;http://www.creativebloq.com/web-design/grid-theory-41411345&quot;&gt;http://www.creativebloq.com/web-design/grid-theory-41411345&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stayrook, J. (2014). Design to the nines and the rule of thirds. Webdesigner Depot. Retrieved 22 October 2014, from &lt;a href=&quot;http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/&quot;&gt;http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&quot;&gt;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&lt;/a&gt;&lt;/p&gt;
 

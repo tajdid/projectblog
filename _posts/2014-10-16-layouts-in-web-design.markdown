@@ -8,6 +8,13 @@ week: Week 6
 
 A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.
 
+##Composition
+
+Composition is about how ideas and design elements are laid out into a whole, composing a design. It is arguably the most important part of a design process.
+
+Good composition will boost the user experience when navigating through a website and will help create a better design overall. When creating composition, the designer should aim for alignment, consistency and strong unity. Composition also helps to add visual relevance to layouts so that it can help users to understand more about their journey on a website, where they should head next.
+
+
 ##Rule of Thirds
 
 I was first made aware of the rule of thirds whilst working on my final GCSE art project. At first I didn't think much of it, but once I saw it in practice I was simply amazed how it transformed the way I viewed art. The rules of thirds is commonly associated with art and photography, but it can also be applied to web design.
@@ -16,9 +23,13 @@ The rule of thirds is a essentially a guideline that is used when creating desig
 
 ![Rule of Thirds](/projectblog/img/posts/ruleofthirds.jpg "Rule of Thirds") <br>
 
-##Spatial Relationships
-
 ##Grid Systems
+
+Whenever I'm working on website I use a grid system as they are crucial to good web design. Whether I'm using my own prebuilt, responsive, CSS-based grid system or designing around guides in Photoshop, grids provide structure and clarity to web design. 
+
+Grids have been used for centuries in print design. They have helped rein in the chaos of the web as well—time was, web pages were built with lots of nested tables and spacer gifs. This was not the best solution, but once CSS became more popular and supported, designers were quick to use grids in their designs.
+
+> _"When you add complexity, you can decrease usability and there is a danger the grid would become so complex the designer can't use it."_ - Mark Boulton (Designing for the Web, Chapter 5, Part 23)
 
 ##Golden Ratio
 >_"The Golden Ratio is a beautifully simple piece of mathematical theory that can help make your designs feel well proportioned and pleasing on the eye."_ - Sam Hampton-Smith
@@ -33,9 +44,11 @@ Figure. Image found [here](http://www.creativebloq.com/design/designers-guide-go
 
 ####References
 
-Stayrook, J. (2014). Design to the nines and the rule of thirds. Webdesigner Depot. Retrieved 22 October 2014, from [http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/](http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/)
+Boultan, M. (2014). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from [http://designingfortheweb.co.uk/part5/part5_chapter23.php](http://designingfortheweb.co.uk/part5/part5_chapter23.php)
 
-(Format using Citation Machine)
+Hampton-Smith, S. (2014). The designer's guide to grid theory. Creativebloq.com. Retrieved 22 October 2014, from [http://www.creativebloq.com/web-design/grid-theory-41411345](http://www.creativebloq.com/web-design/grid-theory-41411345)
+
+Stayrook, J. (2014). Design to the nines and the rule of thirds. Webdesigner Depot. Retrieved 22 October 2014, from [http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/](http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/)
 
 [http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/](http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/)
 
