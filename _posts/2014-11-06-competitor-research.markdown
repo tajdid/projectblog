@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Competitor Research"
+date:   2014-11-06
+categories: kreative
+week: Week 8
+---
+
+I and my teammates will be conducting our own individual research into competitor websites for our client. Mark Boulton said that research is vital to the success of any design solution and I totally agree with him.
+
+##[Indeed](http://indeed.co.uk)
+
+![Indeed](/projectblog/img/posts/indeed.jpg "Indeed")
+
+Indeed is a job search engine website, clearly demonstrating their focus is on delivering the best search results to users no matter where they are. The site is similar to Google in terms of opting for functionality over visual design.
+
+###Design
+
+The design uses a lot of negative space, thus keep it clear and simple. The main colour of the website is blue, which, in colour psychology, is perceived to be a calm, soothing colour making the user feel relaxed. Even Mark Boulton states that a design which mostly consists of blue could be described as 'cold', 'calm' or ‘reserved’. Blue is also commonly associated with a lot of businesses such as Intel, Twitter, Samsung, Tesco, etc. Indeed also uses orange for highlighting certain words, for example when a job is available a text will show up stating a new job is available. This text is coloured orange.
+
+The site doesn’t seem to use a strict grid system as the top navigation and the footer are full width, whereas the main body is constrained within a container which stays in the centre of the browser window.
+
+In terms of typography, the site uses Arial, a san-serif font, as their primary typeface. This suits a website such as Indeed, as it easier to read on screen and allows the users to read the information much more efficiently.
+
+###User experience
+
+Indeed aggregates job postings from thousands of sources and posts them on one site. Instead of visiting five or six different online job sites, Indeed brings the power of many into the power of one. This saves you lots of time in your job search. When you apply to a job on Indeed, you will most likely be redirected to another search site to apply. This can be slightly irritating, but it's worth it for the efficiency gains from only having to search one job site.
+
+Unfortunately Indeed don’t use responsive web design, but they do provide their job search engine product as a dedicated iPhone, iPad, and Android app.
+
+##[Monster](http://www.monster.co.uk/)
+
+![Monster](/projectblog/img/posts/monster.jpg "Monster")
+
+Monster is a clean job search website, which keeps the search results neat - at first you only get the job title, company, location, and date when last updated, which is just what you need. Everything else about the purple-white UI, from the straightforward search window to the clean and easy-to-browse favourites, looks aesthetically pleasing.
+
+###Design
+
+Unlike Indeed, Monster seems to try and fill up most of the space of the website with content, all though the website still looks good. The primary colour of the site is purple, which is usually associated with royalty, wealth and money. I personally think this is an unusual colour scheme for a job board site even though in colour psychology it fits with the theme of the site. 
+
+This site has a fixed width of 994 pixels and is centred horizontally within the browser window. It doesn’t seem to use a strict grid system, but in some places it organised in columns, for example near the footer at the bottom there are 4 columns containing links.
+
+In terms of typography, the site uses a san-serif font, most likely Arial. The site also has a distinguished type hierarchy, for example content links are coloured blue, headings are bold and black and links in the header a white with underlines.
+
+###User Experience
+
+Monster offers useful, content-rich career resources to manage the job search and application process from start to finish. You can effortlessly shortlist favourite jobs and keep track of them, both within the app and through email alerts. The site can also retrieve a maximum of 250 job listings at a time, giving you plenty of options to choose from.
+
+##[NI Job Finder](http://www.nijobfinder.co.uk/)
+
+![NI Job Finder](/projectblog/img/posts/nijobfinder.jpg "NI Job Finder")
+
+NI Job Finder is Northern Ireland’s local job search engine. The sites search capability is simple, then lets you make it as detailed as you want. It provided complete control of the filter options. Date, relevance to keywords, company, education, and experience are just some of your options to generate a very targeted job search with the most relevant listings.
+
+###Design
+
+Unlike the other two job boards, NI Job Finders seems to pack a lot of information onto their homepage. You have the search engine at the very top of the site, with an image on right side which adds a bit more colour to the site. The primary colour of the website is turquoise, which is also the main colour of the logo. The turquoise colour is also used as the background colour for the search engine and some headings. The website, Bourn Creative, said;
+
+The color turquoise is associated with meanings of refreshing, feminine, calming, sophisticated, energy, wisdom, serenity, wholeness, creativity, emotional balance, good luck, spiritual grounding, friendship, love, joy, tranquility, patience, intuition, and loyalty.
+
+The websites typography is very simple and uses a san-serif font. Again, san-serif fonts suit these types of websites as it is very modern and simple.
+
+The website seems to use some of sort of grid system, although it doesn’t seem that strict. There is too much information on the site, which can confuse the user and could lead them to leave the website.
+
+###User Experience
+
+As I mention before, the job search experience is quite user friendly. I was able to search jobs using various filters, thus allowing me to accurately find the right job for me. The amount of content on the homepage can be overwhelming for some people, but it doesn’t really affect the user experience too much. Unfortunately the website does respond to mobile devices and it does seem to have any kind of mobile apps.
+
+####References
+
+Boulton, M. (2014). Chapter 6, The Design Process. Designingfortheweb.co.uk. Retrieved 5 November 2014, from [http://designingfortheweb.co.uk/part2/part2_chapter6.php](http://designingfortheweb.co.uk/part2/part2_chapter6.php)
+
+Bourn, J. (2010). Meaning of The Color Turquoise. Retrieved 5 November 2014, from [http://www.bourncreative.com/meaning-of-the-color-turquoise/](http://www.bourncreative.com/meaning-of-the-color-turquoise/)

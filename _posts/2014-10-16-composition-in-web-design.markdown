@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "Layouts in Web Design"
+title:  "Composition in Web Design"
 date:   2014-10-16
 categories: kreative
 week: Week 6
 ---
 
-A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.
-
-##Composition
-
 Composition is about how ideas and design elements are laid out into a whole, composing a design. It is arguably the most important part of a design process.
 
 Good composition will boost the user experience when navigating through a website and will help create a better design overall. When creating composition, the designer should aim for alignment, consistency and strong unity. Composition also helps to add visual relevance to layouts so that it can help users to understand more about their journey on a website, where they should head next.
 
+![Composition](/projectblog/img/posts/gomedia_composition_girl.jpg "Composition")
+
+A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.
 
 ##Rule of Thirds
 
@@ -53,3 +52,7 @@ Stayrook, J. (2014). Design to the nines and the rule of thirds. Webdesigner Dep
 [http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/](http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/)
 
 [http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)
+
+####Bibliography
+
+Coolen, J. (2009). 7 Key Principles That Make A Web Design Look Good - noupe. noupe. Retrieved 3 November 2014, from [http://www.noupe.com/design/7-key-principles-that-make-a-web-design-look-good.html](http://www.noupe.com/design/7-key-principles-that-make-a-web-design-look-good.html)
