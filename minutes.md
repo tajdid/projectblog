@@ -23,7 +23,7 @@ permalink: /minutes/
 - Alec assigned us with different tasks for the Terms of Reference
 
 
-####Fourth team meeting [16/09/14 | 09:00 - 10:00]
+####Fourth team meeting [09/10/14 | 09:00 - 10:00]
 - Today we joined all our individual documents together to create our final Terms of Reference
 - We sent our final Terms of Reference to Clair and updated our blogs with a link to it.
 

@@ -5,26 +5,123 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Oct 2014 11:34:34 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2014 11:34:34 +0100</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Wed, 05 Nov 2014 18:15:16 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2014 18:15:16 +0000</lastBuildDate>
+    <generator>Jekyll v2.1.1</generator>
     
       <item>
-        <title>Layouts in Web Design</title>
-        <description>&lt;p&gt;A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.&lt;/p&gt;
+        <title>Competitor Research</title>
+        <description>&lt;p&gt;I and my teammates will be conducting our own individual research into competitor websites for our client. Mark Boulton said that research is vital to the success of any design solution and I totally agree with him.&lt;/p&gt;
 
-&lt;h2 id=&quot;composition&quot;&gt;Composition&lt;/h2&gt;
+&lt;h2 id=&quot;indeedhttpindeedcouk&quot;&gt;&lt;a href=&quot;http://indeed.co.uk&quot;&gt;Indeed&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&quot;spatial-relationships&quot;&gt;Spatial Relationships&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/indeed.jpg&quot; alt=&quot;Indeed&quot; title=&quot;Indeed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indeed is a job search engine website, clearly demonstrating their focus is on delivering the best search results to users no matter where they are. The site is similar to Google in terms of opting for functionality over visual design.&lt;/p&gt;
+
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;The design uses a lot of negative space, thus keep it clear and simple. The main colour of the website is blue, which, in colour psychology, is perceived to be a calm, soothing colour making the user feel relaxed. Even Mark Boulton states that a design which mostly consists of blue could be described as ‘cold’, ‘calm’ or ‘reserved’. Blue is also commonly associated with a lot of businesses such as Intel, Twitter, Samsung, Tesco, etc. Indeed also uses orange for highlighting certain words, for example when a job is available a text will show up stating a new job is available. This text is coloured orange.&lt;/p&gt;
+
+&lt;p&gt;The site doesn’t seem to use a strict grid system as the top navigation and the footer are full width, whereas the main body is constrained within a container which stays in the centre of the browser window.&lt;/p&gt;
+
+&lt;p&gt;In terms of typography, the site uses Arial, a san-serif font, as their primary typeface. This suits a website such as Indeed, as it easier to read on screen and allows the users to read the information much more efficiently.&lt;/p&gt;
+
+&lt;h3 id=&quot;user-experience&quot;&gt;User experience&lt;/h3&gt;
+
+&lt;p&gt;Indeed aggregates job postings from thousands of sources and posts them on one site. Instead of visiting five or six different online job sites, Indeed brings the power of many into the power of one. This saves you lots of time in your job search. When you apply to a job on Indeed, you will most likely be redirected to another search site to apply. This can be slightly irritating, but it’s worth it for the efficiency gains from only having to search one job site.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately Indeed don’t use responsive web design, but they do provide their job search engine product as a dedicated iPhone, iPad, and Android app.&lt;/p&gt;
+
+&lt;h2 id=&quot;monsterhttpwwwmonstercouk&quot;&gt;&lt;a href=&quot;http://www.monster.co.uk/&quot;&gt;Monster&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/monster.jpg&quot; alt=&quot;Monster&quot; title=&quot;Monster&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monster is a clean job search website, which keeps the search results neat - at first you only get the job title, company, location, and date when last updated, which is just what you need. Everything else about the purple-white UI, from the straightforward search window to the clean and easy-to-browse favourites, looks aesthetically pleasing.&lt;/p&gt;
+
+&lt;h3 id=&quot;design-1&quot;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;Unlike Indeed, Monster seems to try and fill up most of the space of the website with content, all though the website still looks good. The primary colour of the site is purple, which is usually associated with royalty, wealth and money. I personally think this is an unusual colour scheme for a job board site even though in colour psychology it fits with the theme of the site. &lt;/p&gt;
+
+&lt;p&gt;This site has a fixed width of 994 pixels and is centred horizontally within the browser window. It doesn’t seem to use a strict grid system, but in some places it organised in columns, for example near the footer at the bottom there are 4 columns containing links.&lt;/p&gt;
+
+&lt;p&gt;In terms of typography, the site uses a san-serif font, most likely Arial. The site also has a distinguished type hierarchy, for example content links are coloured blue, headings are bold and black and links in the header a white with underlines.&lt;/p&gt;
+
+&lt;h3 id=&quot;user-experience-1&quot;&gt;User Experience&lt;/h3&gt;
+
+&lt;p&gt;Monster offers useful, content-rich career resources to manage the job search and application process from start to finish. You can effortlessly shortlist favourite jobs and keep track of them, both within the app and through email alerts. The site can also retrieve a maximum of 250 job listings at a time, giving you plenty of options to choose from.&lt;/p&gt;
+
+&lt;h2 id=&quot;ni-job-finderhttpwwwnijobfindercouk&quot;&gt;&lt;a href=&quot;http://www.nijobfinder.co.uk/&quot;&gt;NI Job Finder&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/nijobfinder.jpg&quot; alt=&quot;NI Job Finder&quot; title=&quot;NI Job Finder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;NI Job Finder is Northern Ireland’s local job search engine. The sites search capability is simple, then lets you make it as detailed as you want. It provided complete control of the filter options. Date, relevance to keywords, company, education, and experience are just some of your options to generate a very targeted job search with the most relevant listings.&lt;/p&gt;
+
+&lt;h3 id=&quot;design-2&quot;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;Unlike the other two job boards, NI Job Finders seems to pack a lot of information onto their homepage. You have the search engine at the very top of the site, with an image on right side which adds a bit more colour to the site. The primary colour of the website is turquoise, which is also the main colour of the logo. The turquoise colour is also used as the background colour for the search engine and some headings. The website, Bourn Creative, said;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The color turquoise is associated with meanings of refreshing, feminine, calming, sophisticated, energy, wisdom, serenity, wholeness, creativity, emotional balance, good luck, spiritual grounding, friendship, love, joy, tranquility, patience, intuition, and loyalty.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The websites typography is very simple and uses a san-serif font. Again, san-serif fonts suit these types of websites as it is very modern and simple.&lt;/p&gt;
+
+&lt;p&gt;The website seems to use some of sort of grid system, although it doesn’t seem that strict. There is too much information on the site, which can confuse the user and could lead them to leave the website.&lt;/p&gt;
+
+&lt;h3 id=&quot;user-experience-2&quot;&gt;User Experience&lt;/h3&gt;
+
+&lt;p&gt;As I mention before, the job search experience is quite user friendly. I was able to search jobs using various filters, thus allowing me to accurately find the right job for me. The amount of content on the homepage can be overwhelming for some people, but it doesn’t really affect the user experience too much. Unfortunately the website does respond to mobile devices and it does seem to have any kind of mobile apps.&lt;/p&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;Boulton, M. (2014). Chapter 6, The Design Process. Designingfortheweb.co.uk. Retrieved 5 November 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part2/part2_chapter6.php&quot;&gt;http://designingfortheweb.co.uk/part2/part2_chapter6.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bourn, J. (2010). Meaning of The Color Turquoise. Retrieved 5 November 2014, from &lt;a href=&quot;http://www.bourncreative.com/meaning-of-the-color-turquoise/&quot;&gt;http://www.bourncreative.com/meaning-of-the-color-turquoise/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/11/06/competitor-research/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/11/06/competitor-research/</guid>
+        
+        
+        <category>kreative</category>
+        
+      </item>
+    
+      <item>
+        <title>Composition in Web Design</title>
+        <description>&lt;p&gt;Composition is about how ideas and design elements are laid out into a whole, composing a design. It is arguably the most important part of a design process.&lt;/p&gt;
+
+&lt;p&gt;Good composition will boost the user experience when navigating through a website and will help create a better design overall. When creating composition, the designer should aim for alignment, consistency and strong unity. Composition also helps to add visual relevance to layouts so that it can help users to understand more about their journey on a website, where they should head next.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/gomedia_composition_girl.jpg&quot; alt=&quot;Composition&quot; title=&quot;Composition&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.&lt;/p&gt;
+
+&lt;h2 id=&quot;rule-of-thirds&quot;&gt;Rule of Thirds&lt;/h2&gt;
+
+&lt;p&gt;I was first made aware of the rule of thirds whilst working on my final GCSE art project. At first I didn’t think much of it, but once I saw it in practice I was simply amazed how it transformed the way I viewed art. The rules of thirds is commonly associated with art and photography, but it can also be applied to web design.&lt;/p&gt;
+
+&lt;p&gt;The rule of thirds is a essentially a guideline that is used when creating designs, photographs, films and paintings. The rule of thirds uses a grid of 3x3, hence the name, which can placed on any design, photography and painting which can help the user to alter their work to make them more appealing to the viewer or audience. It is used to help balance designs and work and make them more interesting and eye catching to the viewer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/ruleofthirds.jpg&quot; alt=&quot;Rule of Thirds&quot; title=&quot;Rule of Thirds&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;grid-systems&quot;&gt;Grid Systems&lt;/h2&gt;
+
+&lt;p&gt;Whenever I’m working on website I use a grid system as they are crucial to good web design. Whether I’m using my own prebuilt, responsive, CSS-based grid system or designing around guides in Photoshop, grids provide structure and clarity to web design. &lt;/p&gt;
+
+&lt;p&gt;Grids have been used for centuries in print design. They have helped rein in the chaos of the web as well—time was, web pages were built with lots of nested tables and spacer gifs. This was not the best solution, but once CSS became more popular and supported, designers were quick to use grids in their designs.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“When you add complexity, you can decrease usability and there is a danger the grid would become so complex the designer can’t use it.”&lt;/em&gt; - Mark Boulton (Designing for the Web, Chapter 5, Part 23)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;golden-ratio&quot;&gt;Golden Ratio&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;“The Golden Ratio is a beautifully simple piece of mathematical theory that can help make your designs feel well proportioned and pleasing on the eye.”&lt;/em&gt; - Sam Hampton-Smith&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/g-ratio.png&quot; alt=&quot;Golden Ration&quot; title=&quot;Golden Ratio&quot; /&gt; &lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/g-ratio.png&quot; alt=&quot;Golden Ratio&quot; title=&quot;Golden Ratio&quot; /&gt; &lt;br /&gt;
 Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Golden Ratio is a grid system that helps designers/developers plan their websites or designs to help improve user satisfaction or appear more aesthetically pleasing to the human eye. The ratio does not strictly have to be similar to figure X above, it can be adapted. Twitter (as shown in figure X below) have flipped it to fit for their design and information to make it look better and easy to use.&lt;/p&gt;
@@ -34,13 +131,23 @@ Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designer
 
 &lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
 
+&lt;p&gt;Boultan, M. (2014). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part5/part5_chapter23.php&quot;&gt;http://designingfortheweb.co.uk/part5/part5_chapter23.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hampton-Smith, S. (2014). The designer’s guide to grid theory. Creativebloq.com. Retrieved 22 October 2014, from &lt;a href=&quot;http://www.creativebloq.com/web-design/grid-theory-41411345&quot;&gt;http://www.creativebloq.com/web-design/grid-theory-41411345&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stayrook, J. (2014). Design to the nines and the rule of thirds. Webdesigner Depot. Retrieved 22 October 2014, from &lt;a href=&quot;http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/&quot;&gt;http://www.webdesignerdepot.com/2014/01/design-to-the-nines-and-the-rule-of-thirds/&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&quot;&gt;http://www.smashingmagazine.com/2013/08/29/innovative-appraoches-web-layout/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h4&gt;
+
+&lt;p&gt;Coolen, J. (2009). 7 Key Principles That Make A Web Design Look Good - noupe. noupe. Retrieved 3 November 2014, from &lt;a href=&quot;http://www.noupe.com/design/7-key-principles-that-make-a-web-design-look-good.html&quot;&gt;http://www.noupe.com/design/7-key-principles-that-make-a-web-design-look-good.html&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Oct 2014 00:00:00 +0100</pubDate>
-        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/16/layouts-in-web-design/</link>
-        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/16/layouts-in-web-design/</guid>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/16/composition-in-web-design/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/10/16/composition-in-web-design/</guid>
         
         
         <category>kreative</category>

@@ -5,7 +5,7 @@ email: tajdidrahman@gmail.com
 
 baseurl: "/projectblog"
 url: "http://tajdid.me.uk/projectblog"
-permalink: /projectblog/:categories/:year/:month/:day/:title.html
+permalink: /projectblog/:title.html
 paginate_path: "/projectblog/page:num"
 
 email: tajdidrahman@gmail.com
