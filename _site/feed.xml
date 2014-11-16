@@ -5,9 +5,26 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 15 Nov 2014 13:14:44 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Nov 2014 13:14:44 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2014 16:09:56 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2014 16:09:56 +0000</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>Blog Feedback #02</title>
+        <description>&lt;p&gt;Today I recieved my second blog feedback.&lt;/p&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_02.mp3&quot; /&gt;
+&lt;/audio&gt;
+</description>
+        <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/11/10/blog-feedback-02/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/11/10/blog-feedback-02/</guid>
+        
+        
+        <category>kreative</category>
+        
+      </item>
     
       <item>
         <title>Competitor Research</title>
@@ -160,7 +177,7 @@ Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designer
 
 &lt;!-- ####Feedback --&gt;
 &lt;audio controls=&quot;&quot;&gt;
-	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_01.m4a&quot; /&gt;
+	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_01.mp3&quot; /&gt;
 &lt;/audio&gt;
 
 &lt;p&gt;I agree with all that has been said about my blog. The work on this blog is not up to my usual standards and that is largely due to the lack of motivation and not treating my blog like an assignment.&lt;/p&gt;
@@ -374,28 +391,6 @@ versa. The body text should be easily readable with the heading fonts complement
         <pubDate>Thu, 11 Sep 2014 00:00:00 +0100</pubDate>
         <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/11/finding-a-client/</link>
         <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/11/finding-a-client/</guid>
-        
-        
-        <category>kreative</category>
-        
-      </item>
-    
-      <item>
-        <title>About Kreative</title>
-        <description>&lt;p&gt;Kreative is a small interactive design agency based in Titanic Quarter, Belfast. We are a collective of students aiming to come up with, create and realise simple, digital solutions which communicate the values and relevant messages of our clients in a wide variety of industries.&lt;/p&gt;
-
-&lt;p&gt;The group consists of;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Alec Devlin&lt;/li&gt;
-  &lt;li&gt;Declan Magee&lt;/li&gt;
-  &lt;li&gt;Lauren McKimm&lt;/li&gt;
-  &lt;li&gt;Tajdid Rahman&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 09 Sep 2014 00:00:00 +0100</pubDate>
-        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/09/about-kreative/</link>
-        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/09/about-kreative/</guid>
         
         
         <category>kreative</category>
