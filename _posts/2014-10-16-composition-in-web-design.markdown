@@ -12,7 +12,25 @@ Good composition will boost the user experience when navigating through a websit
 
 ![Composition](/projectblog/img/posts/gomedia_composition_girl.jpg "Composition")
 
+Figure 1. Image sourced from [http://gomedia.us/zine/tutorials/rule-composition-putting/](http://gomedia.us/zine/tutorials/rule-composition-putting/)
+
 A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.
+
+##Spatial Relationships
+
+Space is an important part of web design, but it's also one of the most neglected and underrated. By being able to grasp control of negative/white space, we are able to create a subtle, but defining element of a webpage and make good use of it.
+
+Negative/white space is when an area of a design which doesn't demand our attention.
+
+![Negative Space](/projectblog/img/posts/squarespace_white-space.jpg "Negative/White Space")
+
+##Grid Systems
+
+Whenever I'm working on website I use a grid system as they are crucial to good web design. Whether I'm using my own prebuilt, responsive, CSS-based grid system or designing around guides in Photoshop, grids provide structure and clarity to web design. 
+
+Grids have been used for centuries in print design. They have helped rein in the chaos of the web as well—time was, web pages were built with lots of nested tables and spacer gifs. This was not the best solution, but once CSS became more popular and supported, designers were quick to use grids in their designs.
+
+> _"When you add complexity, you can decrease usability and there is a danger the grid would become so complex the designer can't use it."_ - Boulton (Designing for the Web (Online, 2014), Chapter 5, Part 23)
 
 ##Rule of Thirds
 
@@ -21,14 +39,6 @@ I was first made aware of the rule of thirds whilst working on my final GCSE art
 The rule of thirds is a essentially a guideline that is used when creating designs, photographs, films and paintings. The rule of thirds uses a grid of 3x3, hence the name, which can placed on any design, photography and painting which can help the user to alter their work to make them more appealing to the viewer or audience. It is used to help balance designs and work and make them more interesting and eye catching to the viewer.
 
 ![Rule of Thirds](/projectblog/img/posts/ruleofthirds.jpg "Rule of Thirds") <br>
-
-##Grid Systems
-
-Whenever I'm working on website I use a grid system as they are crucial to good web design. Whether I'm using my own prebuilt, responsive, CSS-based grid system or designing around guides in Photoshop, grids provide structure and clarity to web design. 
-
-Grids have been used for centuries in print design. They have helped rein in the chaos of the web as well—time was, web pages were built with lots of nested tables and spacer gifs. This was not the best solution, but once CSS became more popular and supported, designers were quick to use grids in their designs.
-
-> _"When you add complexity, you can decrease usability and there is a danger the grid would become so complex the designer can't use it."_ - Mark Boulton (Designing for the Web, Chapter 5, Part 23)
 
 ##Golden Ratio
 >_"The Golden Ratio is a beautifully simple piece of mathematical theory that can help make your designs feel well proportioned and pleasing on the eye."_ - Sam Hampton-Smith

@@ -3,7 +3,7 @@ layout: post
 title:  "Blog Feedback #02"
 date:   2014-11-10
 categories: kreative
-week: Week 8
+week: Week 9
 ---
 
 Today I recieved my second blog feedback.
