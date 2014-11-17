@@ -5,9 +5,40 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Nov 2014 18:15:16 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2014 18:15:16 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2014 16:41:58 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2014 16:41:58 +0000</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>Blog Feedback #02</title>
+        <description>&lt;p&gt;Today I recieved my second blog feedback from Clair Stevenson.&lt;/p&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_02.mp3&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Things I need to do;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add proper references to images&lt;/li&gt;
+  &lt;li&gt;Refine and add to the ‘Composition of Wed Design’ post&lt;/li&gt;
+  &lt;li&gt;Refine ‘Competitor Research’ post&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What I’ve done;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’ve written about Negative Space and added image references in the &lt;a href=&quot;/projectblog/kreative/2014/10/16/composition-in-web-design&quot;&gt;Composition of Web Design&lt;/a&gt; (11/11/14)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/11/10/blog-feedback-02/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/11/10/blog-feedback-02/</guid>
+        
+        
+        <category>kreative</category>
+        
+      </item>
     
       <item>
         <title>Competitor Research</title>
@@ -94,17 +125,23 @@
 
 &lt;p&gt;Good composition will boost the user experience when navigating through a website and will help create a better design overall. When creating composition, the designer should aim for alignment, consistency and strong unity. Composition also helps to add visual relevance to layouts so that it can help users to understand more about their journey on a website, where they should head next.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/gomedia_composition_girl.jpg&quot; alt=&quot;Composition&quot; title=&quot;Composition&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/gomedia_composition_girl.jpg&quot; alt=&quot;Composition&quot; title=&quot;Composition&quot; /&gt; &lt;br /&gt;
+&lt;small&gt;Figure 1. &lt;em&gt;Squarespace.&lt;/em&gt; (2014). &lt;em&gt;Screenshot of a Squarespace design.&lt;/em&gt; Retrieved from &lt;a href=&quot;http://gomedia.us/zine/tutorials/rule-composition-putting/&quot;&gt;http://gomedia.us/zine/tutorials/rule-composition-putting/&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.&lt;/p&gt;
 
-&lt;h2 id=&quot;rule-of-thirds&quot;&gt;Rule of Thirds&lt;/h2&gt;
+&lt;h2 id=&quot;space&quot;&gt;Space&lt;/h2&gt;
 
-&lt;p&gt;I was first made aware of the rule of thirds whilst working on my final GCSE art project. At first I didn’t think much of it, but once I saw it in practice I was simply amazed how it transformed the way I viewed art. The rules of thirds is commonly associated with art and photography, but it can also be applied to web design.&lt;/p&gt;
+&lt;p&gt;Space is an important part of web design, but it’s also one of the most neglected and underrated. By being able to grasp control of negative/white space, we are able to create a subtle, but defining element of a webpage and make good use of it.&lt;/p&gt;
 
-&lt;p&gt;The rule of thirds is a essentially a guideline that is used when creating designs, photographs, films and paintings. The rule of thirds uses a grid of 3x3, hence the name, which can placed on any design, photography and painting which can help the user to alter their work to make them more appealing to the viewer or audience. It is used to help balance designs and work and make them more interesting and eye catching to the viewer.&lt;/p&gt;
+&lt;p&gt;Negative/white space is when an area of a design doesn’t demand our attention. Negative space plays an important role in any type of design work, especially in web design as it visually gives a resting place for the visitor. These resting places are often found in margins and the space around design elements (Boulton, 2007).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/ruleofthirds.jpg&quot; alt=&quot;Rule of Thirds&quot; title=&quot;Rule of Thirds&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/squarespace_white-space_2.jpg&quot; alt=&quot;Negative Space&quot; title=&quot;Negative/White Space&quot; /&gt; &lt;br /&gt;
+&lt;small&gt;Figure 2. &lt;em&gt;Squarespace.&lt;/em&gt; (2014). &lt;em&gt;Squarespace - Better Websites For All.&lt;/em&gt; [Video Still] Retrieved from &lt;a href=&quot;http://youtu.be/3jm6vAZVMNw&quot;&gt;http://youtu.be/3jm6vAZVMNw&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of sites, such as &lt;a href=&quot;http://squarespace.com&quot;&gt;Squarespace&lt;/a&gt; (see fig 2), use the minimalisim concept, which is to convey an idea or point using the least amount of visual noise.&lt;/p&gt;
+
+&lt;p&gt;If no negative space is present, there is nothing for site visitors to move their eyes to take a visual break. For example, if a visitor comes to a website and every inch of real estate on the screen is taken up by words, graphics, blinking things, etc., it starts to feel chaotic and makes the visitor feel uneasy. &lt;/p&gt;
 
 &lt;h2 id=&quot;grid-systems&quot;&gt;Grid Systems&lt;/h2&gt;
 
@@ -113,8 +150,17 @@
 &lt;p&gt;Grids have been used for centuries in print design. They have helped rein in the chaos of the web as well—time was, web pages were built with lots of nested tables and spacer gifs. This was not the best solution, but once CSS became more popular and supported, designers were quick to use grids in their designs.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;“When you add complexity, you can decrease usability and there is a danger the grid would become so complex the designer can’t use it.”&lt;/em&gt; - Mark Boulton (Designing for the Web, Chapter 5, Part 23)&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;“When you add complexity, you can decrease usability and there is a danger the grid would become so complex the designer can’t use it.”&lt;/em&gt; - Boulton (Designing for the Web (Online, 2014), Chapter 5, Part 23)&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;h2 id=&quot;rule-of-thirds&quot;&gt;Rule of Thirds&lt;/h2&gt;
+
+&lt;p&gt;I was first made aware of the rule of thirds whilst working on my final GCSE art project. At first I didn’t think much of it, but once I saw it in practice I was simply amazed how it transformed the way I viewed art. The rules of thirds is commonly associated with art and photography, but it can also be applied to web design.&lt;/p&gt;
+
+&lt;p&gt;The rule of thirds is a essentially a guideline that is used when creating designs, photographs, films and paintings. The rule of thirds uses a grid of 3x3, hence the name, which can placed on any design, photography and painting which can help the user to alter their work to make them more appealing to the viewer or audience. It is used to help balance designs and work and make them more interesting and eye catching to the viewer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/ruleofthirds.jpg&quot; alt=&quot;Rule of Thirds&quot; title=&quot;Rule of Thirds&quot; /&gt; &lt;br /&gt;
+&lt;small&gt;Figure 3. &lt;em&gt;NAME&lt;/em&gt; (2014). &lt;em&gt;DESCRIPTION.&lt;/em&gt; Retrieved from []()&lt;/small&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;golden-ratio&quot;&gt;Golden Ratio&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -122,7 +168,7 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/g-ratio.png&quot; alt=&quot;Golden Ratio&quot; title=&quot;Golden Ratio&quot; /&gt; &lt;br /&gt;
-Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;small&gt;Figure 4. &lt;em&gt;NAME&lt;/em&gt; (2014). &lt;em&gt;DESCRIPTION.&lt;/em&gt; Retrieved from &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;The Golden Ratio is a grid system that helps designers/developers plan their websites or designs to help improve user satisfaction or appear more aesthetically pleasing to the human eye. The ratio does not strictly have to be similar to figure X above, it can be adapted. Twitter (as shown in figure X below) have flipped it to fit for their design and information to make it look better and easy to use.&lt;/p&gt;
 
@@ -131,7 +177,9 @@ Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designer
 
 &lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
 
-&lt;p&gt;Boultan, M. (2014). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part5/part5_chapter23.php&quot;&gt;http://designingfortheweb.co.uk/part5/part5_chapter23.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Boultan, M. (2009). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part5/part5_chapter23.php&quot;&gt;http://designingfortheweb.co.uk/part5/part5_chapter23.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Boulton, M. (2007). Whitespace. Alistapart.com. Retrieved 11 November 2014, from &lt;a href=&quot;http://alistapart.com/article/whitespace&quot;&gt;http://alistapart.com/article/whitespace&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hampton-Smith, S. (2014). The designer’s guide to grid theory. Creativebloq.com. Retrieved 22 October 2014, from &lt;a href=&quot;http://www.creativebloq.com/web-design/grid-theory-41411345&quot;&gt;http://www.creativebloq.com/web-design/grid-theory-41411345&lt;/a&gt;&lt;/p&gt;
 
@@ -160,7 +208,7 @@ Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designer
 
 &lt;!-- ####Feedback --&gt;
 &lt;audio controls=&quot;&quot;&gt;
-	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_01.m4a&quot; /&gt;
+	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_01.mp3&quot; /&gt;
 &lt;/audio&gt;
 
 &lt;p&gt;I agree with all that has been said about my blog. The work on this blog is not up to my usual standards and that is largely due to the lack of motivation and not treating my blog like an assignment.&lt;/p&gt;
@@ -322,6 +370,33 @@ versa. The body text should be easily readable with the heading fonts complement
       </item>
     
       <item>
+        <title>Research Techniques</title>
+        <description>&lt;p&gt;Research is one of the most crucial steps of any design mediums. Mark Boulton said that designers don’t need to be involved in the actual research process, but they do require access to the results to reach informed design decisions. He has also written in his book ‘Designing for the Web’ that the findings of a research can be provided as three key deliverables in the design process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Insights to help generate ideas for the design.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data with which to ‘sense–check’ design solutions. An example of this would be research that led to the generation of project personas, or pen portrait’s.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Frame the design solution in the real world. Solutions to design problems can often be developed in a bubble. As such, they can quickly become divorced from reality.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was recently &lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Sep 2014 00:00:00 +0100</pubDate>
+        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/20/reserch-techniques/</link>
+        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/20/reserch-techniques/</guid>
+        
+        
+        <category>kreative</category>
+        
+      </item>
+    
+      <item>
         <title>Meeting the Client</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim recusandae aliquam rerum sequi esse unde ratione praesentium, numquam, delectus est id distinctio aut labore eligendi quisquam inventore hic laboriosam reiciendis.&lt;/p&gt;
 
@@ -347,28 +422,6 @@ versa. The body text should be easily readable with the heading fonts complement
         <pubDate>Thu, 11 Sep 2014 00:00:00 +0100</pubDate>
         <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/11/finding-a-client/</link>
         <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/11/finding-a-client/</guid>
-        
-        
-        <category>kreative</category>
-        
-      </item>
-    
-      <item>
-        <title>About Kreative</title>
-        <description>&lt;p&gt;Kreative is a small interactive design agency based in Titanic Quarter, Belfast. We are a collective of students aiming to come up with, create and realise simple, digital solutions which communicate the values and relevant messages of our clients in a wide variety of industries.&lt;/p&gt;
-
-&lt;p&gt;The group consists of;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Alec Devlin&lt;/li&gt;
-  &lt;li&gt;Declan Magee&lt;/li&gt;
-  &lt;li&gt;Lauren McKimm&lt;/li&gt;
-  &lt;li&gt;Tajdid Rahman&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 09 Sep 2014 00:00:00 +0100</pubDate>
-        <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/09/about-kreative/</link>
-        <guid isPermaLink="true">http://tajdid.me.uk/projectblog/projectblog/kreative/2014/09/09/about-kreative/</guid>
         
         
         <category>kreative</category>
