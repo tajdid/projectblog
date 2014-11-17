@@ -5,8 +5,8 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 16 Nov 2014 17:55:43 +0000</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2014 17:55:43 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2014 10:55:20 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2014 10:55:20 +0000</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -111,9 +111,8 @@
 
 &lt;p&gt;Good composition will boost the user experience when navigating through a website and will help create a better design overall. When creating composition, the designer should aim for alignment, consistency and strong unity. Composition also helps to add visual relevance to layouts so that it can help users to understand more about their journey on a website, where they should head next.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/gomedia_composition_girl.jpg&quot; alt=&quot;Composition&quot; title=&quot;Composition&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Figure 1. Image sourced from &lt;a href=&quot;http://gomedia.us/zine/tutorials/rule-composition-putting/&quot;&gt;http://gomedia.us/zine/tutorials/rule-composition-putting/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/gomedia_composition_girl.jpg&quot; alt=&quot;Composition&quot; title=&quot;Composition&quot; /&gt; &lt;br /&gt;
+&lt;small&gt;Figure 1. &lt;em&gt;Squarespace.&lt;/em&gt; (2014). &lt;em&gt;Screenshot of a Squarespace design.&lt;/em&gt; Retrieved from &lt;a href=&quot;http://gomedia.us/zine/tutorials/rule-composition-putting/&quot;&gt;http://gomedia.us/zine/tutorials/rule-composition-putting/&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.&lt;/p&gt;
 
@@ -123,7 +122,8 @@
 
 &lt;p&gt;Negative/white space is when an area of a design which doesn’t demand our attention.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/squarespace_white-space.jpg&quot; alt=&quot;Negative Space&quot; title=&quot;Negative/White Space&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/squarespace_white-space.jpg&quot; alt=&quot;Negative Space&quot; title=&quot;Negative/White Space&quot; /&gt; &lt;br /&gt;
+&lt;small&gt;Figure 2. &lt;em&gt;Squarespace.&lt;/em&gt; (2014). &lt;em&gt;Screenshot of a Squarespace design.&lt;/em&gt; Retrieved from &lt;a href=&quot;http://squarespace.com&quot;&gt;http://squarespace.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;grid-systems&quot;&gt;Grid Systems&lt;/h2&gt;
 
@@ -141,7 +141,8 @@
 
 &lt;p&gt;The rule of thirds is a essentially a guideline that is used when creating designs, photographs, films and paintings. The rule of thirds uses a grid of 3x3, hence the name, which can placed on any design, photography and painting which can help the user to alter their work to make them more appealing to the viewer or audience. It is used to help balance designs and work and make them more interesting and eye catching to the viewer.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/ruleofthirds.jpg&quot; alt=&quot;Rule of Thirds&quot; title=&quot;Rule of Thirds&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/ruleofthirds.jpg&quot; alt=&quot;Rule of Thirds&quot; title=&quot;Rule of Thirds&quot; /&gt; &lt;br /&gt;
+&lt;small&gt;Figure 3. &lt;em&gt;NAME&lt;/em&gt; (2014). &lt;em&gt;DESCRIPTION.&lt;/em&gt; Retrieved from []()&lt;/small&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;golden-ratio&quot;&gt;Golden Ratio&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -149,7 +150,7 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/g-ratio.png&quot; alt=&quot;Golden Ratio&quot; title=&quot;Golden Ratio&quot; /&gt; &lt;br /&gt;
-Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;small&gt;Figure 4. &lt;em&gt;NAME&lt;/em&gt; (2014). &lt;em&gt;DESCRIPTION.&lt;/em&gt; Retrieved from &lt;a href=&quot;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&quot;&gt;http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;The Golden Ratio is a grid system that helps designers/developers plan their websites or designs to help improve user satisfaction or appear more aesthetically pleasing to the human eye. The ratio does not strictly have to be similar to figure X above, it can be adapted. Twitter (as shown in figure X below) have flipped it to fit for their design and information to make it look better and easy to use.&lt;/p&gt;
 
