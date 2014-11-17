@@ -17,3 +17,7 @@ Things I need to do;
 - Add proper references to images
 - Refine and add to the 'Composition of Wed Design' post
 - Refine 'Competitor Research' post
+
+What I've done;
+
+- I've written about Negative Space and added image references in the [Composition of Web Design](/projectblog/kreative/2014/10/16/composition-in-web-design) (11/11/14)
