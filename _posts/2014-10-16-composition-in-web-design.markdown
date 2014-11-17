@@ -15,14 +15,18 @@ Good composition will boost the user experience when navigating through a websit
 
 A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.
 
-##Spatial Relationships
+##Space
 
 Space is an important part of web design, but it's also one of the most neglected and underrated. By being able to grasp control of negative/white space, we are able to create a subtle, but defining element of a webpage and make good use of it.
 
-Negative/white space is when an area of a design which doesn't demand our attention.
+Negative/white space is when an area of a design doesn't demand our attention. Negative space plays an important role in any type of design work, especially in web design as it visually gives a resting place for the visitor. These resting places are often found in margins and the space around design elements (Boulton, 2007).
 
-![Negative Space](/projectblog/img/posts/squarespace_white-space.jpg "Negative/White Space") <br>
-<small>Figure 2. _Squarespace._ (2014). _Screenshot of a Squarespace design._ Retrieved from [http://squarespace.com](http://squarespace.com)</small>
+![Negative Space](/projectblog/img/posts/squarespace_white-space_2.jpg "Negative/White Space") <br>
+<small>Figure 2. _Squarespace._ (2014). _Squarespace - Better Websites For All._ [Video Still] Retrieved from [http://youtu.be/3jm6vAZVMNw](http://youtu.be/3jm6vAZVMNw)</small>
+
+A lot of sites, such as [Squarespace](http://squarespace.com) (see fig 2), use the minimalisim concept, which is to convey an idea or point using the least amount of visual noise.
+
+If no negative space is present, there is nothing for site visitors to move their eyes to take a visual break. For example, if a visitor comes to a website and every inch of real estate on the screen is taken up by words, graphics, blinking things, etc., it starts to feel chaotic and makes the visitor feel uneasy. 
 
 ##Grid Systems
 
@@ -54,7 +58,9 @@ Figure. Image found [here](http://www.creativebloq.com/design/designers-guide-go
 
 ####References
 
-Boultan, M. (2014). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from [http://designingfortheweb.co.uk/part5/part5_chapter23.php](http://designingfortheweb.co.uk/part5/part5_chapter23.php)
+Boultan, M. (2009). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from [http://designingfortheweb.co.uk/part5/part5_chapter23.php](http://designingfortheweb.co.uk/part5/part5_chapter23.php)
+
+Boulton, M. (2007). Whitespace. Alistapart.com. Retrieved 11 November 2014, from [http://alistapart.com/article/whitespace](http://alistapart.com/article/whitespace)
 
 Hampton-Smith, S. (2014). The designer's guide to grid theory. Creativebloq.com. Retrieved 22 October 2014, from [http://www.creativebloq.com/web-design/grid-theory-41411345](http://www.creativebloq.com/web-design/grid-theory-41411345)
 

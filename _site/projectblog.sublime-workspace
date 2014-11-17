@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background"
+			],
+			[
+				"lo",
+				"logo-color"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"top",
+				"top-nav"
+			],
+			[
+				"to",
+				"top-nav"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"todo",
+				"todo_item"
+			],
+			[
+				"set",
+				"set_todo_item"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"scri",
+				"scripts"
+			],
+			[
+				"ta",
+				"ta-l	text-align: left;"
+			],
+			[
+				"work",
+				"work-link"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"trac",
+				"tracks"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"colo",
+				"colours"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"col",
+				"colours"
+			],
+			[
+				"tajdidr",
+				"tajdidrahman"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"li",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fl",
+				"fl	float: ${1:left};"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pt",
+				"puts"
+			],
+			[
+				"end",
+				"end_of_time"
+			],
+			[
+				"bom",
+				"bomb_timer"
+			],
+			[
+				"w",
+				"while	while ... end"
+			],
+			[
+				"trian",
+				"triangles"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ls",
+				"list-s	list-style-type: square;"
+			],
+			[
+				"fac",
+				"fact_to_three"
+			],
+			[
+				"ra",
+				"remainder"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"hea",
+				"head-colour"
+			],
+			[
+				"link",
+				"link-colour"
+			],
+			[
+				"bod",
+				"body-colour"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"d",
+				"d-ib+	display: inline-block;\n*display: inline;\n*zoom: 1;"
+			],
+			[
+				"topb",
+				"top-bar-section"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ho",
+				"work-hover"
+			],
+			[
+				"body",
+				"body-colour"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"f",
+				"f2"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"medi",
+				"medium-grey"
+			],
+			[
+				"bg",
+				"bg-colour"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"heade",
+				"head-container"
+			],
+			[
+				"he",
+				"helvetica"
+			],
+			[
+				"fi",
+				"font-family"
+			],
+			[
+				"l",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2014-10-16-composition-in-web-design.markdown",
+			"settings":
+			{
+				"buffer_size": 7082,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 566.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-10-blog-feedback-02.markdown",
+		"/Users/tajdid/Documents/GitHub/folio9000/work-page.html",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-09-20-reserch-techniques.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-12-blog-feedback.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-06-competitor-research.markdown",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/modules/_page-titles.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/pages/_homepage.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/index.html",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/base/_variables.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/pages/_workpage.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/base/_base.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/pages/_pages.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/js/functions.js",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/tools/_fonts.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/modules/_footer.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/modules/_header.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/modules/_nav.scss",
+		"/Users/tajdid/Dropbox/Websites/CollyBlog/scss/style.scss",
+		"/Users/tajdid/Dropbox/Websites/CollyBlog/scss/_fonts.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/img/logo.svg",
+		"/Users/tajdid/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tajdid/Documents/Creative/Websites/simple_cms/Gemfile",
+		"/Users/tajdid/Documents/GitHub/portfolio/index.html",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-09-30-typography-in-web-design.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-07-terms-of-reference-feedback.markdown",
+		"/Users/tajdid/Documents/GitHub/folio9000/js/smooth-scroll.js",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-16-composition-in-web-design.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-03-composition-in-web-design.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_config.yml",
+		"/Users/tajdid/Desktop/blog asap/index.html",
+		"/Users/tajdid/Desktop/blog asap/style/style.css",
+		"/Users/tajdid/Desktop/blog asap/indextest.html",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-16-layouts-in-web-design.markdown",
+		"/Users/tajdid/Documents/GitHub/todolist/config/routes.rb",
+		"/Users/tajdid/Documents/GitHub/todolist/app/controllers/todo_items_controller.rb",
+		"/Users/tajdid/Documents/GitHub/todolist/app/models/todo_item.rb",
+		"/Users/tajdid/Documents/GitHub/todolist/app/views/todo_items/_todo_item.html.erb",
+		"/Users/tajdid/Documents/GitHub/todolist/app/views/todo_lists/show.html.erb",
+		"/Users/tajdid/Documents/GitHub/todolist/app/models/todo_list.rb",
+		"/Users/tajdid/Documents/GitHub/todolist/app/views/todo_items/_form.html.erb",
+		"/Users/tajdid/Documents/GitHub/todolist/config/boot.rb",
+		"/Users/tajdid/Documents/GitHub/todolist/app/views/layouts/_todo_item.html.erb",
+		"/Users/tajdid/Documents/GitHub/todolist/tmp/pids/server.pid",
+		"/Users/tajdid/Documents/Creative/Websites/Experiments/jQuery-Test/js/functions.js",
+		"/Users/tajdid/Documents/Creative/Websites/Experiments/jQuery-Test/js/trakt.js",
+		"/Users/tajdid/Documents/Creative/Websites/Experiments/jQuery-Test/index.html",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/js/last-fm.js",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/js/scripts.js",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/js/last.fm.records.js",
+		"/Users/tajdid/Documents/Belfast Met/foundation-5.4.7/work.html",
+		"/Users/tajdid/Documents/Belfast Met/foundation-5.4.7/index.html",
+		"/Users/tajdid/Desktop/portfolio/index.html",
+		"/Users/tajdid/Desktop/portfolio/css/style.css",
+		"/Users/tajdid/Desktop/portfolio/css/responsive-nav.css",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/responsive-nav.css",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/modules/_modules.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/tools/_mixins.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/tools/_tools.scss",
+		"/Users/tajdid/Documents/Creative/Websites/Experiments/jQuery-Test/tajdid.json",
+		"/Users/tajdid/Desktop/TestNav/testnav.html",
+		"/Users/tajdid/Desktop/TestNav/css/responsive-nav.css",
+		"/Users/tajdid/Documents/Creative/Websites/Experiments/jQuery-Test/styles/style.scss",
+		"/Users/tajdid/Documents/Creative/Websites/brendan/css/style.css",
+		"/Users/tajdid/Documents/Creative/Websites/brendan/js/functions.js",
+		"/Users/tajdid/Documents/Creative/Websites/brendan/index.html",
+		"/Users/tajdid/Documents/Creative/Websites/brendan/rob.html",
+		"/Users/tajdid/Documents/Creative/Websites/brendan/js/jquery.smoothState.js",
+		"/Users/tajdid/Dropbox/Github/portfolio/index.html",
+		"/Users/tajdid/Dropbox/Github/portfolio/scss/_variables.scss",
+		"/Users/tajdid/Dropbox/Github/portfolio/scss/_mixins.scss",
+		"/Users/tajdid/Dropbox/Github/portfolio/scss/_layout.scss",
+		"/Users/tajdid/Dropbox/Github/portfolio/scss/style.scss",
+		"/Users/tajdid/Dropbox/Cover Letter Boilerplates",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/_fonts.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/_nav.scss",
+		"/Users/tajdid/Documents/GitHub/folio9000/styles/style.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/minutes.md",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/pages/_homepage.scss",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/base/_variables.scss",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/modules/_footer.scss",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/index.html",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/modules/_modules.scss",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/modules/_top-header.scss",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/js/functions.js",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/modules/_nav.scss",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/style.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/_layout.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-09-25-colours-in-web-design.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/about.md",
+		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/base/_grid.scss",
+		"/Users/tajdid/Dropbox/Github/bmblog/scss/_grid.scss",
+		"/Users/tajdid/Dropbox/Github/bmblog/scss/_layout.scss",
+		"/Users/tajdid/Dropbox/Websites/Yuki Kit/index.html",
+		"/Users/tajdid/Dropbox/Websites/Yuki Kit/scss/tools/_fonts.scss",
+		"/Users/tajdid/Dropbox/Websites/Yuki Kit/scss/base/_grid.scss",
+		"/Users/tajdid/Dropbox/Websites/Yuki Kit/scss/pages/_homepage.scss",
+		"/Users/tajdid/Dropbox/Websites/Yuki Kit/js/scripts.js",
+		"/Users/tajdid/Documents/GitHub/projectblog/index.html",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_functions.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_fonts.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/base/_variables.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/pages/_homepage.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/style.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/_variables.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/base/_base.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_mixins.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/base/_grid.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/pages/_pages.scss",
+		"/Users/tajdid/Documents/Websites/Experiments/1/styles/style.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/modules/_modules.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_tools.scss",
+		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_misc.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/style.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-09-30-typography-hierarchy-in-web-design.markdown",
+		"/Users/tajdid/Documents/GitHub/studentjobs/app/controllers/jobs_controller.rb",
+		"/Users/tajdid/Documents/GitHub/projectblog/fonts/icomoon/style.css",
+		"/Users/tajdid/Documents/GitHub/projectblog/_includes/header.html",
+		"/Users/tajdid/Documents/GitHub/studentjobs/app/models/job.rb",
+		"/Users/tajdid/Documents/GitHub/studentjobs/app/views/jobs/new.html.erb",
+		"/Users/tajdid/Documents/GitHub/studentjobs/db/schema.rb",
+		"/Users/tajdid/Documents/GitHub/studentjobs/db/migrate/20141010213351_create_jobs.rb",
+		"/Users/tajdid/Documents/GitHub/studentjobs/app/assets/stylesheets/normalize.css",
+		"/Users/tajdid/Documents/GitHub/studentjobs/app/assets/stylesheets/application.css",
+		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/assets/stylesheets/jobs.css.scss",
+		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/views/layouts/application.html.erb",
+		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/controllers/jobs_controller.rb",
+		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/views/jobs/index.html.erb",
+		"/Users/tajdid/Documents/Websites/Rails/jobsboard/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#FFFFFF",
+			"slide",
+			"logoimg",
+			"<!",
+			"color",
+			"figure",
+			"clearfix",
+			"#C6373B",
+			"purple",
+			"fill=\"#323b3d\"",
+			"Aligner",
+			"menu",
+			"media",
+			"img",
+			"menu",
+			"500ms",
+			"background-color",
+			"a1b92d",
+			"even",
+			"h4",
+			"breakpoint",
+			"saved",
+			"max-heigh",
+			"icomoon",
+			"icon",
+			"../",
+			"icon",
+			"twitter",
+			"classi",
+			"twitter",
+			"tw",
+			"x",
+			"orbit",
+			"none",
+			"logo",
+			"wrapper",
+			"0df",
+			"5694f1",
+			".7",
+			"foot-c",
+			"gold",
+			"foot-c",
+			"purple",
+			"grey-d",
+			"grey-m",
+			"grey-l",
+			"body-c",
+			"primary-colour",
+			"navi",
+			"overlay",
+			"navi",
+			"overlay",
+			"sans-serif",
+			", $base-accent-color",
+			"888",
+			".btn",
+			"functions",
+			"white",
+			"fff",
+			"wrapper",
+			"title",
+			"1000",
+			"-color",
+			"cl-effect-18",
+			"225"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2014-10-16-composition-in-web-design.markdown",
+					"settings":
+					{
+						"buffer_size": 7082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1935,
+								1935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grid",
+				"scss/base/_grid.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}

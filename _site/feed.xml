@@ -5,17 +5,25 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Nov 2014 10:55:20 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 10:55:20 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2014 12:08:47 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2014 12:08:47 +0000</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
         <title>Blog Feedback #02</title>
-        <description>&lt;p&gt;Today I recieved my second blog feedback.&lt;/p&gt;
+        <description>&lt;p&gt;Today I recieved my second blog feedback from Clair Stevenson.&lt;/p&gt;
 
 &lt;audio controls=&quot;&quot;&gt;
 	&lt;source src=&quot;/projectblog/downloads/blog_audio_feedback_02.mp3&quot; /&gt;
 &lt;/audio&gt;
+
+&lt;p&gt;Things I need to do;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add proper references to images&lt;/li&gt;
+  &lt;li&gt;Refine and add to the ‘Composition of Wed Design’ post&lt;/li&gt;
+  &lt;li&gt;Refine ‘Competitor Research’ post&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
         <link>http://tajdid.me.uk/projectblog/projectblog/kreative/2014/11/10/blog-feedback-02/</link>
@@ -116,14 +124,18 @@
 
 &lt;p&gt;A layout is the basis of a website. It brings different aspects of design into play and guides the user through each section and tells them what is most important. With different browser types, screen resolutions and sizes a designer needs to know what layout to use whether it is fixed, fluid or responsive. In this post I will talk about different aspects of layout used in web design.&lt;/p&gt;
 
-&lt;h2 id=&quot;spatial-relationships&quot;&gt;Spatial Relationships&lt;/h2&gt;
+&lt;h2 id=&quot;space&quot;&gt;Space&lt;/h2&gt;
 
 &lt;p&gt;Space is an important part of web design, but it’s also one of the most neglected and underrated. By being able to grasp control of negative/white space, we are able to create a subtle, but defining element of a webpage and make good use of it.&lt;/p&gt;
 
-&lt;p&gt;Negative/white space is when an area of a design which doesn’t demand our attention.&lt;/p&gt;
+&lt;p&gt;Negative/white space is when an area of a design doesn’t demand our attention. Negative space plays an important role in any type of design work, especially in web design as it visually gives a resting place for the visitor. These resting places are often found in margins and the space around design elements (Boulton, 2007).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/squarespace_white-space.jpg&quot; alt=&quot;Negative Space&quot; title=&quot;Negative/White Space&quot; /&gt; &lt;br /&gt;
-&lt;small&gt;Figure 2. &lt;em&gt;Squarespace.&lt;/em&gt; (2014). &lt;em&gt;Screenshot of a Squarespace design.&lt;/em&gt; Retrieved from &lt;a href=&quot;http://squarespace.com&quot;&gt;http://squarespace.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/squarespace_white-space_2.jpg&quot; alt=&quot;Negative Space&quot; title=&quot;Negative/White Space&quot; /&gt; &lt;br /&gt;
+&lt;small&gt;Figure 2. &lt;em&gt;Squarespace.&lt;/em&gt; (2014). &lt;em&gt;Squarespace - Better Websites For All.&lt;/em&gt; [Video Still] Retrieved from &lt;a href=&quot;http://youtu.be/3jm6vAZVMNw&quot;&gt;http://youtu.be/3jm6vAZVMNw&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of sites, such as &lt;a href=&quot;http://squarespace.com&quot;&gt;Squarespace&lt;/a&gt; (see fig 2), use the minimalisim concept, which is to convey an idea or point using the least amount of visual noise.&lt;/p&gt;
+
+&lt;p&gt;If no negative space is present, there is nothing for site visitors to move their eyes to take a visual break. For example, if a visitor comes to a website and every inch of real estate on the screen is taken up by words, graphics, blinking things, etc., it starts to feel chaotic and makes the visitor feel uneasy. &lt;/p&gt;
 
 &lt;h2 id=&quot;grid-systems&quot;&gt;Grid Systems&lt;/h2&gt;
 
@@ -159,7 +171,9 @@ Figure. Image found &lt;a href=&quot;http://www.creativebloq.com/design/designer
 
 &lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
 
-&lt;p&gt;Boultan, M. (2014). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part5/part5_chapter23.php&quot;&gt;http://designingfortheweb.co.uk/part5/part5_chapter23.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Boultan, M. (2009). Chapter 23, Grid Systems. Designingfortheweb.co.uk. Retrieved 22 October 2014, from &lt;a href=&quot;http://designingfortheweb.co.uk/part5/part5_chapter23.php&quot;&gt;http://designingfortheweb.co.uk/part5/part5_chapter23.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Boulton, M. (2007). Whitespace. Alistapart.com. Retrieved 11 November 2014, from &lt;a href=&quot;http://alistapart.com/article/whitespace&quot;&gt;http://alistapart.com/article/whitespace&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hampton-Smith, S. (2014). The designer’s guide to grid theory. Creativebloq.com. Retrieved 22 October 2014, from &lt;a href=&quot;http://www.creativebloq.com/web-design/grid-theory-41411345&quot;&gt;http://www.creativebloq.com/web-design/grid-theory-41411345&lt;/a&gt;&lt;/p&gt;
 
