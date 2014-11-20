@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog Feedback #02"
-date:   2014-11-10
+date:   2014-11-14
 categories: kreative
 week: Week 9
 ---

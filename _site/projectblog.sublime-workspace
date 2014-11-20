@@ -326,6 +326,14 @@
 				"buffer_size": 7082,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "_posts/2014-11-10-blog-feedback-02.markdown",
+			"settings":
+			{
+				"buffer_size": 604,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -608,7 +616,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -632,7 +640,33 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 347.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2014-11-10-blog-feedback-02.markdown",
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
