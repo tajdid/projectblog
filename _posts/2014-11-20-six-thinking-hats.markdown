@@ -3,7 +3,7 @@ layout: post
 title:  "Six Thinking Hats"
 date:   2014-11-20
 categories: kreative
-week: Week 10
+week: Week 9
 ---
 
 The ‘Six thinking hats’ is a technique used to come up with decisions from a number of different perspectives. This decision making technique forces the user to move outside their usual thinking style, allowing them to get a more rounded view of a situation (Mindtools.com, 2014).
