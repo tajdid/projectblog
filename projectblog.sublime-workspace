@@ -319,22 +319,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 561,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-11-20-six-thinking-hats.markdown",
-			"settings":
-			{
-				"buffer_size": 1141,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -388,10 +372,12 @@
 	},
 	"file_history":
 	[
+		"/Users/tajdid/Documents/GitHub/projectblog/index.html",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-25-creative-problem-solving.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-20-six-thinking-hats.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/scss/_variables.scss",
 		"/Users/tajdid/Documents/GitHub/projectblog/scss/_layout.scss",
 		"/Users/tajdid/Documents/GitHub/projectblog/scss/_nav.scss",
-		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-20-six-thinking-hats.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-10-blog-feedback-02.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-16-composition-in-web-design.markdown",
 		"/Users/tajdid/Documents/GitHub/folio9000/work-page.html",
@@ -487,7 +473,6 @@
 		"/Users/tajdid/Dropbox/Websites/Yuki Kit/scss/base/_grid.scss",
 		"/Users/tajdid/Dropbox/Websites/Yuki Kit/scss/pages/_homepage.scss",
 		"/Users/tajdid/Dropbox/Websites/Yuki Kit/js/scripts.js",
-		"/Users/tajdid/Documents/GitHub/projectblog/index.html",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_functions.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_fonts.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/base/_variables.scss",
@@ -514,8 +499,7 @@
 		"/Users/tajdid/Documents/GitHub/studentjobs/app/assets/stylesheets/application.css",
 		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/assets/stylesheets/jobs.css.scss",
 		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/views/layouts/application.html.erb",
-		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/controllers/jobs_controller.rb",
-		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/views/jobs/index.html.erb"
+		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/controllers/jobs_controller.rb"
 	],
 	"find":
 	{
@@ -616,63 +600,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								560,
-								560
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2014-11-20-six-thinking-hats.markdown",
-					"settings":
-					{
-						"buffer_size": 1141,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1131,
-								1131
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
