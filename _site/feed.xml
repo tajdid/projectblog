@@ -5,13 +5,17 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Dec 2014 13:57:05 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2014 13:57:05 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2014 14:22:16 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2014 14:22:16 +0000</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
         <title>Storyboarding</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/JobBoardNI_Storyboard.jpg&quot; alt=&quot;JobBoardNI Storyboard&quot; title=&quot;JobBoardNI Storyboard&quot; /&gt; &lt;br /&gt;
+        <description>&lt;p&gt;I designed the homepage design below using Adobe Photoshop. We didn’t have any brand guidelines given to us, so I had the creative freedom to execute the design however I wanted. I decided to go with a black and green colour scheme. The black colour gives it a corporate theme and the green is meant to represent Northern Ireland.&lt;/p&gt;
+
+&lt;p&gt;I tried putting focus on the content so I didn’t use any gradients, but used photography along with some simple and clean typography.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/JobBoardNI_Storyboard.jpg&quot; alt=&quot;JobBoardNI Storyboard&quot; title=&quot;JobBoardNI Storyboard&quot; /&gt; &lt;br /&gt;
 &lt;small&gt;View &lt;a href=&quot;/projectblog/downloads/JobBoardNI_Storyboard.jpg&quot;&gt;higher quality&lt;/a&gt; or download the &lt;a href=&quot;/projectblog/downloads/JobBoardNI_Storyboard.psd&quot;&gt;PSD&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
@@ -23,7 +27,11 @@
     
       <item>
         <title>Concept Creation</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/JobBoardNI_Wireframe.jpg&quot; alt=&quot;JobBoardNI Wireframe&quot; title=&quot;JobBoardNI Wireframe&quot; /&gt; &lt;br /&gt;
+        <description>&lt;p&gt;As a group we decided to create a wireframe of the homepage. We’ll each be creating our own version of the homepage and we’ll then be translating this into a pixel perfect mockup later using Adobe Photoshop.&lt;/p&gt;
+
+&lt;p&gt;I created the wireframe below using a program called &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;, which is great for user interface design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/projectblog/img/posts/JobBoardNI_Wireframe.jpg&quot; alt=&quot;JobBoardNI Wireframe&quot; title=&quot;JobBoardNI Wireframe&quot; /&gt; &lt;br /&gt;
 &lt;small&gt;View &lt;a href=&quot;/projectblog/downloads/JobBoardNI_Wireframe.jpg&quot;&gt;higher quality&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
