@@ -17,7 +17,7 @@ Alec Devlin used a brainstorming method to discuss and find solutions for his pr
 ![CPS Three](/projectblog/img/posts/cps-3.jpeg "CPS Three") <br>
 <small>Figure 3. Personal photography.</small>
 
-Lauren use the 6-3-5 brainstorming method for her problems, which were 'Colour Scheme' and 'Layout'. You can see her solution below in figure 4.
+Lauren used the 6-3-5 brainstorming method for her problems, which were 'Colour Scheme' and 'Layout'. You can see her solution below in figure 4.
 
 ![CPS Four](/projectblog/img/posts/cps-4.jpeg "CPS Four") <br>
 <small>Figure 4. Personal photography.</small>
