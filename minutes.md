@@ -30,3 +30,11 @@ permalink: /minutes/
 ####Fifth team meeting [16/10/14 | 09:00 - 10:00]
 - Declan was not in today
 - We discussed on various research techniques and decided to do individual research.
+
+####Sixth team meeting [18/11/14 | 09:00 - 10:00]
+- Today we discussed the various problems we had
+- We each decided to take on two problems and then use them for next weeks creative problem solving workshop
+
+####Seventh team meeting [27/11/14 | 09:00 - 10:00]
+- Declan was not in today
+- Today we each used various brainstorming techniques to come up with solutions for our problems.
