@@ -319,22 +319,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_posts/2014-10-16-composition-in-web-design.markdown",
-			"settings":
-			{
-				"buffer_size": 7082,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-11-10-blog-feedback-02.markdown",
-			"settings":
-			{
-				"buffer_size": 604,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -388,7 +372,14 @@
 	},
 	"file_history":
 	[
+		"/Users/tajdid/Documents/GitHub/projectblog/index.html",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-25-creative-problem-solving.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-20-six-thinking-hats.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/_variables.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/_layout.scss",
+		"/Users/tajdid/Documents/GitHub/projectblog/scss/_nav.scss",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-10-blog-feedback-02.markdown",
+		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-16-composition-in-web-design.markdown",
 		"/Users/tajdid/Documents/GitHub/folio9000/work-page.html",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-09-20-reserch-techniques.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-12-blog-feedback.markdown",
@@ -414,7 +405,6 @@
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-09-30-typography-in-web-design.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-07-terms-of-reference-feedback.markdown",
 		"/Users/tajdid/Documents/GitHub/folio9000/js/smooth-scroll.js",
-		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-10-16-composition-in-web-design.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-11-03-composition-in-web-design.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/_config.yml",
 		"/Users/tajdid/Desktop/blog asap/index.html",
@@ -462,7 +452,6 @@
 		"/Users/tajdid/Dropbox/Github/portfolio/scss/style.scss",
 		"/Users/tajdid/Dropbox/Cover Letter Boilerplates",
 		"/Users/tajdid/Documents/GitHub/projectblog/scss/_fonts.scss",
-		"/Users/tajdid/Documents/GitHub/projectblog/scss/_nav.scss",
 		"/Users/tajdid/Documents/GitHub/folio9000/styles/style.scss",
 		"/Users/tajdid/Documents/GitHub/projectblog/minutes.md",
 		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/pages/_homepage.scss",
@@ -474,7 +463,6 @@
 		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/js/functions.js",
 		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/modules/_nav.scss",
 		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/style.scss",
-		"/Users/tajdid/Documents/GitHub/projectblog/scss/_layout.scss",
 		"/Users/tajdid/Documents/GitHub/projectblog/_posts/2014-09-25-colours-in-web-design.markdown",
 		"/Users/tajdid/Documents/GitHub/projectblog/about.md",
 		"/Users/tajdid/Dropbox/Websites/OctPortfolio14/scss/base/_grid.scss",
@@ -485,13 +473,11 @@
 		"/Users/tajdid/Dropbox/Websites/Yuki Kit/scss/base/_grid.scss",
 		"/Users/tajdid/Dropbox/Websites/Yuki Kit/scss/pages/_homepage.scss",
 		"/Users/tajdid/Dropbox/Websites/Yuki Kit/js/scripts.js",
-		"/Users/tajdid/Documents/GitHub/projectblog/index.html",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_functions.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_fonts.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/base/_variables.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/pages/_homepage.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/style.scss",
-		"/Users/tajdid/Documents/GitHub/projectblog/scss/_variables.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/base/_base.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/tools/_mixins.scss",
 		"/Users/tajdid/Dropbox/Github/tajdid.github.io/scss/base/_grid.scss",
@@ -513,9 +499,7 @@
 		"/Users/tajdid/Documents/GitHub/studentjobs/app/assets/stylesheets/application.css",
 		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/assets/stylesheets/jobs.css.scss",
 		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/views/layouts/application.html.erb",
-		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/controllers/jobs_controller.rb",
-		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/views/jobs/index.html.erb",
-		"/Users/tajdid/Documents/Websites/Rails/jobsboard/config/routes.rb"
+		"/Users/tajdid/Documents/Websites/Rails/jobsboard/app/controllers/jobs_controller.rb"
 	],
 	"find":
 	{
@@ -616,61 +600,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_posts/2014-10-16-composition-in-web-design.markdown",
-					"settings":
-					{
-						"buffer_size": 7082,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1935,
-								1935
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2014-11-10-blog-feedback-02.markdown",
-					"settings":
-					{
-						"buffer_size": 604,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								498,
-								498
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
