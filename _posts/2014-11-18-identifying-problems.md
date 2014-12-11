@@ -9,6 +9,15 @@ Using the research we did previously, we created a mind map using coloured stick
 
 We spent roughly thirty minutes coming up with different ideas shown below in figure 1.
 
-![Sticky notes](/projectblog/img/posts/identifying-problems.jpeg)
+![Sticky notes](/projectblog/img/posts/identifying-problems.jpeg) <br>
+<small>Figure 1. Personal photography.</small>
+
+The headings were;
+
+- If so what are they?
+- How are they performing?
+- Should we stand on the shoulders of giants?
+- What would a completed new offering look, sound, taste, smell or feel like.
+- What are their strengths and weaknesses?
 
 ####References
