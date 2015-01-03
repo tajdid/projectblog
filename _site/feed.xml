@@ -5,9 +5,9 @@
     <description></description>
     <link>http://tajdid.me.uk/projectblog/projectblog/</link>
     <atom:link href="http://tajdid.me.uk/projectblog/projectblog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Dec 2014 18:37:40 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2014 18:37:40 +0000</lastBuildDate>
-    <generator>Jekyll v2.1.1</generator>
+    <pubDate>Sat, 03 Jan 2015 22:51:36 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2015 22:51:36 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Storyboarding</title>
@@ -27,7 +27,9 @@
     
       <item>
         <title>Concept Creation</title>
-        <description>&lt;p&gt;As a group we decided to create a wireframe of the homepage. We’ll each be creating our own version of the homepage and we’ll then be translating this into a pixel perfect mockup later using Adobe Photoshop.&lt;/p&gt;
+        <description>&lt;p&gt;Before we produce the actual website we’ll need to create a concept of how it will look. One way of doing this is by creating a wireframe. A wireframe will be able to give us a visual representation of how the website will look before we actually produce a high-fidelity mockup. A wireframe is usually void of any design elements such as images, colour and fonts. Its primary use is to communicate informational hirearchy, structure of the content and the flow of the website.&lt;/p&gt;
+
+&lt;p&gt;As a group we decided to create a wireframe of the homepage. We’ll each be creating our own version of the homepage and we’ll then be translating this into a pixel perfect mockup later using Adobe Photoshop.&lt;/p&gt;
 
 &lt;p&gt;I created the wireframe below using a program called &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;, which is great for user interface design.&lt;/p&gt;
 
